@@ -53,4 +53,7 @@ com.apple.secinitd
 libsystem_secinit.dylib
 stop reson
 EXC_
+bt all
+re re --all
+dis -f
 12345__2021-SRD-COHORT__67890
