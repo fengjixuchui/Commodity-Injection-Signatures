@@ -10,7 +10,8 @@ launch your executable with the environment variable MALLOC_PERMIT_INSANE_REQUES
 #
 #
 Explicitly trapping into debugger!!!
-If you run under the debugger, it will automatically break here.
+If you run under the debugger
+If this is expected behavior
 Details:
 Object:
 Method:
@@ -47,6 +48,10 @@ BREAK
 NASM
 asm
 break
+Assert
+assert
+ASSERT
+Attempting excessively
 appsandbox.cold
 libsystem_malloc.dylib`free
 com.apple.secinitd
