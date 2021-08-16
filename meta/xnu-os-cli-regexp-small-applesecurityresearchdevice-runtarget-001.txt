@@ -51,7 +51,7 @@ appsandbox.cold
 libsystem_malloc.dylib`free
 com.apple.secinitd
 libsystem_secinit.dylib
-stop reson
+stop reason
 EXC_
 bt all
 re re --all
