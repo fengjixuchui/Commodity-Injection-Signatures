@@ -41,4 +41,10 @@ BREAK
 NASM
 asm
 break
+appsandbox.cold
+libsystem_malloc.dylib`free
+com.apple.secinitd
+libsystem_secinit.dylib
+stop reson
+EXC_
 12345__2021-SRD-COHORT__67890
