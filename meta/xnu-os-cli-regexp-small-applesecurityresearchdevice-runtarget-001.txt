@@ -56,4 +56,9 @@ EXC_
 bt all
 re re --all
 dis -f
+key
+file
+build
+DATA
+Cache
 12345__2021-SRD-COHORT__67890
