@@ -31,6 +31,7 @@ exception
 pc
 lr
 pc
+TARGETED_DEVICE_FAMILY
 sp
 fp
 x8
