@@ -2,7 +2,7 @@
 
 Commodity Injection Signatures
 
-Scraped from the Internet since 2015 and is not a ripoff of https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all which you should be using anyway.
+Scraped from the Internet since 2015 
 
 Suggested Use: 
 
@@ -16,7 +16,7 @@ This Repo is frequently cloned and included into upstream distrbutions based on 
 
 If anyone would like to see other changes, please open an Issue.
 
-UPDATED Saturday September 25, 2021
+UPDATED Saturday November 11, 2021
 -------------
 This Repo is Crowdsourced, and recently took down some Apple Flagship Product.
  
