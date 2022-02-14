@@ -6,9 +6,24 @@
 # ... often because the Crashes evade Apple Crash Reporter and most other tools :->|
 #
 #
-launch your executable with the environment variable MALLOC_PERMIT_INSANE_REQUESTS set to any value to circumvent this check
+# launch your executable with the environment variable MALLOC_PERMIT_INSANE_REQUESTS set to any value to circumvent this check
 #
 #
+mmap()
+is adhoc signed
+file-map-executable
+unsuitable CT policy 0
+rejecting signature
+File system sandbox blocked
+ASI found 
+[dyld] (sensitive)
+Library not loaded:
+Sandbox:
+@rpath
+Reason:
+send failed:
+tss request =
+cryptex mount point =
 Explicitly trapping into debugger!!!
 If you run under the debugger
 If this is expected behavior
@@ -17,6 +32,7 @@ Object:
 Method:
 Conflicting
 No match
+duplicate report for Sandbox:
 NSThread
 SDK
 Variant
