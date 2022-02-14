@@ -8,6 +8,12 @@
 #
 launch your executable with the environment variable MALLOC_PERMIT_INSANE_REQUESTS set to any value to circumvent this check
 #
+Waiting for a client to connect...
+bind
+listen
+0.0.0.0
+AppleMobileFileIntegrity_research
+17.
 platform/device
 send failed: 
 Invalid argument
@@ -20,6 +26,7 @@ task name
 port right
 for pid
 (os/kern) failure (0x5)
+com.example.cryptex
 (os/kern)
 failure
 rdar://
