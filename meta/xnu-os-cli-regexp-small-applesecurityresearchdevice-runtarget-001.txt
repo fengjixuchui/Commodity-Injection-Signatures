@@ -10,8 +10,16 @@
 #
 #
 mmap()
+Unable to obtain
+task name
+port right
+for pid
+(os/kern) failure (0x5)
+(os/kern)
+failure
 rdar://
 no-op
+os/kern
 is adhoc signed
 file-map-executable
 unsuitable CT policy 0
