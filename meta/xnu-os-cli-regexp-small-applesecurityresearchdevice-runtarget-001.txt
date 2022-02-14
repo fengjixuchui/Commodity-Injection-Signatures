@@ -6,8 +6,9 @@
 # ... often because the Crashes evade Apple Crash Reporter and most other tools :->|
 #
 #
-# launch your executable with the environment variable MALLOC_PERMIT_INSANE_REQUESTS set to any value to circumvent this check
+launch your executable with the environment variable MALLOC_PERMIT_INSANE_REQUESTS set to any value to circumvent this check
 #
+platform/device
 deny(1) file-map-executable
 file-read-metadata
 deny(1) file-read-metadata
