@@ -8,7 +8,7 @@
 #
 # launch your executable with the environment variable MALLOC_PERMIT_INSANE_REQUESTS set to any value to circumvent this check
 #
-#
+deny(1) file-map-executable
 mmap()
 Unable to obtain
 task name
