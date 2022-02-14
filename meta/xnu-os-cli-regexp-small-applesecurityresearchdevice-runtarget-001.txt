@@ -10,6 +10,8 @@
 #
 #
 mmap()
+rdar://
+no-op
 is adhoc signed
 file-map-executable
 unsuitable CT policy 0
