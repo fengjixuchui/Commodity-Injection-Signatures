@@ -4,6 +4,19 @@
 # This is the small version, working on a larger commit from Strings and Burp Suite
 # Note that I have __Burp Suite Hooked to the SRD__ and Capture Crash Data thru Burp and related Tooling 
 # ... often because the Crashes evade Apple Crash Reporter and most other tools :->|
+mask.hash
+CFOpenDirectory
+Decode HEIC request
+IPConfiguration
+kauth_membership_check
+SystemCache
+ReportMemoryException
+cached-account-with-identifier
+input buffer bad size
+verification failed
+no match
+unrestricted anchor source
+replacing non ev reject score
 com.example.cryptex
 SecKeyVerifySignature failed
 ValidityPeriodMaximums
