@@ -11,8 +11,7 @@ exited with exit reason
 SOURCE_ATTACH
 OS_REASON_DYLD
 xpcproxy
-Report Crash
-internal event: 
+Report Crash 
 SPAWNED
 WILL_SPAWN
 Sandbox
