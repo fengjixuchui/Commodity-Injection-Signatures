@@ -4,10 +4,20 @@
 # This is the small version, working on a larger commit from Strings and Burp Suite
 # Note that I have __Burp Suite Hooked to the SRD__ and Capture Crash Data thru Burp and related Tooling 
 # ... often because the Crashes evade Apple Crash Reporter and most other tools :->|
-#
-#
-launch your executable with the environment variable MALLOC_PERMIT_INSANE_REQUESTS set to any value to circumvent this check
-#
+com.example.cryptex
+subsystem
+namespace
+exited with exit reason
+SOURCE_ATTACH
+OS_REASON_DYLD
+xpcproxy
+Report Crash
+internal event: 
+SPAWNED
+WILL_SPAWN
+Sandbox
+internal event:
+exited
 (os/kern)
 (os/kern) failure (0x5)
 0.0.0.0
