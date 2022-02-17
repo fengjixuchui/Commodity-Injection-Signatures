@@ -5,6 +5,8 @@
 # Note that I have __Burp Suite Hooked to the SRD__ and Capture Crash Data thru Burp and related Tooling 
 # ... often because the Crashes evade Apple Crash Reporter and most other tools :->|
 com.example.cryptex
+SecKeyVerifySignature failed
+ValidityPeriodMaximums
 subsystem
 namespace
 exited with exit reason
