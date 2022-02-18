@@ -1,9 +1,3 @@
-# This File is used to aid in reconstruction of Crash Events for LLDB, Hopper, Burp Suite and other Tooling.
-# File established August 16 2021 and will grow over time
-#
-# This is the small version, working on a larger commit from Strings and Burp Suite
-# Note that I have __Burp Suite Hooked to the SRD__ and Capture Crash Data thru Burp and related Tooling 
-# ... often because the Crashes evade Apple Crash Reporter and most other tools :->|
 (os/kern)
 (os/kern) failure (0x5)
 0.0.0.0
