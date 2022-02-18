@@ -5,6 +5,7 @@
 ==> debugserver
 @rpath
 AMFI
+AMSupportPlatformCreateBufferFromNativeFilePath
 ASI found
 ASSERT
 AppleMobileFileIntegrity_research
@@ -29,6 +30,7 @@ Invalid argument
 LOAD
 Library not loaded:
 Missing Description
+MIDeveloperDiskImageTracker
 Method
 NASM
 NSThread
@@ -55,7 +57,8 @@ Unable to obtain a task name port right for
 ValidityPeriodMaximums
 Variant
 WILL_SPAWN
-Waiting for a client to connect...
+Waiting for a client to connect
+Warning Denying process assertion
 [dyld] (sensitive)
 __opaque__
 appsandbox.cold
@@ -71,11 +74,15 @@ but never started
 cached-account-with-identifier
 com.apple.secinitd
 com.example.cryptex
-cryptex mount point =
+com.apple.security.cryptexd
+cryptex mount point
 definition
 deny(1) file-map-executable
 deny(1) file-read-metadata
-dis -f
+denying executable
+denying
+disabled
+dstroot
 duplicate report for Sandbox:
 dyld
 esr
@@ -93,9 +100,10 @@ file-read-metadata
 for pid
 fp
 hook..execve()
+hfs
 IDENTITY_ATTRIBUTION
 input buffer bad size
-internal event:
+internal event
 Invalid argument
 is adhoc signed
 kauth_membership_check
@@ -107,11 +115,15 @@ libsystem_malloc.dylib`free
 libsystem_secinit.dylib
 listen
 lr
+main_block_invoke
 mask.hash
+mach-lookup
 mmap()
+mount point
 namespace
 no match
 no-op
+open failed
 os/kern
 pc
 platform/device
@@ -123,10 +135,11 @@ recording malloc
 rejecting signature
 replacing non ev reject score
 sdk
-send failed:
+send failed
 sp
 stop reason
 subsystem
+system-wide
 target-id
 task name
 tss request
