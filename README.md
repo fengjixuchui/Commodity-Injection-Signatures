@@ -1,8 +1,8 @@
-#XSS.Cx Public Repo
+# XSS.Cx Public Repo
 
 Commodity Injection Signatures
 
-Scraped from the Internet since 2015 and is not a ripoff of https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all which you should be using anyway.
+Scraped from the Internet since 2015 
 
 Suggested Use: 
 
@@ -14,6 +14,12 @@ Send Pull Requests if you have unique inputs that should be included for distrib
 
 This Repo is frequently cloned and included into upstream distrbutions based on recent traffic in January 2021.
 
-if anyone would like to see other changes, please open an Issue.
+If anyone would like to see other changes, please open an Issue.
 
-This Repo will soon get new fresh data from iPhone and Android Fuzzing using Corellium.
+UPDATED Saturday November 11, 2021
+-------------
+This Repo is Crowdsourced, and recently took down some Apple Flagship Product.
+ 
+ :-)
+ 
+Congrats to all who contribute to Commodity Injection Signatures.
