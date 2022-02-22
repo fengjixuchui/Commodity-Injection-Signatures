@@ -1,254 +1,414 @@
-Mobile App: 2Face-2 Accounts for whatsapp&social apps (Google Play), by ThinkMobile Inc.
-Mobile App: Alarm Clock Xtreme: Alarm, Stopwatch, Timer (Free) (Google Play), by AVG Labs
-Mobile App: All Status Saver for WhatsApp - Status Downloader (Google Play), by Download Status App Studio
-Mobile App: Apk Share Bluetooth - Send/Backup/Uninstall/Manage (Google Play), by Lucky Developer
-Mobile App: Audio & Music Player (Google Play), by JRT Studio Music Players
-Mobile App: AudioRelay: Stream audio from PC (Google Play), by azEf
-Mobile App: Background Eraser „Äú Stickers ! (iTunes App Store), by handyCloset Inc.
-Mobile App: Bagan - Myanmar Keyboard (Google Play), by Bagan Innovation Technology
-Mobile App: C Compiler (Google Play), by iLabbs
-Mobile App: Camera Transparent - Transparent Live Wallpaper (Google Play), by Cute Wallpapers Studio
-Mobile App: Chinese Handwriting Recog (Google Play), by Dev CHOE
-Mobile App: Contacts A+ free contacts, groups & dialer app (Google Play), by URECY WORKS LLC
-Mobile App: Cours java (Google Play), by Rewards App
-Mobile App: Crypto App - Crypto Signals, Charts, News, TA more (Google Play), by All In One Crypto App
-Mobile App: Cryptography - Collection of ciphers and hashes (Google Play), by Nitramite
-Mobile App: Cymera Camera - Collage, Selfie Camera, Pic Editor (Google Play), by SK Communications
-Mobile App: Default Music Player (Google Play), by JAYAVELU V
-Mobile App: Dot n Beat - Test your hand speed (Google Play), by Badsnowball Limited
-Mobile App: File Manager (Google Play), by Flashlight + Clock
-Mobile App: Find My Phone Whistle - gadget finder by whistling (Google Play), by Appache Tools: Find my phone by whistle & by clap
-Mobile App: Flash Game Player Classic (Google Play), by Mobile Apps Studio
-Mobile App: Free Notes Notepad App (Google Play), by Marco Meyer
-Mobile App: Free Wifi Password Viewer - Security Check (Google Play), by WiFi Secure Apps
-Mobile App: FreeTelec T√©l√©commande Freebox (Google Play), by r0ro
-Mobile App: Gallery KK (Google Play), by Moblynx
-Mobile App: Java Espa√±ol (Google Play), by CoderBro
-Mobile App: Kanji Lookup (iTunes App Store), by telethon k.k.
-Mobile App: Lark Player ‚Äî‚Äî YouTube Music & Free MP3 Top Player (Google Play), by Mobiuspace Tech Top Player
-Mobile App: MOJi N1-Êó•ËØ≠ËÉΩÂäõËÄÉËØïÊñáÂ≠óËØçÊ±áÂ≠¶‰π†‰π¶(JLPT N1) (iTunes App Store), by Hugecore Information Technology (Guangzhou) Co.,Ltd.
-Mobile App: MOJi N3-Êó•ËØ≠ËÉΩÂäõËÄÉËØïÊñáÂ≠óËØçÊ±áÂ≠¶‰π†‰π¶(JLPT N3) (iTunes App Store), by Hugecore Information Technology (Guangzhou) Co.,Ltd.
-Mobile App: Mobile C [ C/C++ Compiler ] (iTunes App Store), by Jeong Seop Lee
-Mobile App: Mobile Number Locator - Phone Caller Location (Google Play), by Video Downloader - Download Videos - Video Player
-Mobile App: Money Manager Expense & Budget (Google Play), by Realbyte Inc.
-Mobile App: Music Player (Google Play), by Music Player.
 Mobile App: 2Face-2 Accounts for whatsapp&social apps (Google Play)
+Mobile App: 2Face-2 Accounts for whatsapp&social apps (Google Play), by ThinkMobile Inc.
+Mobile App: 3Q MoneyNote-Simple Finance (iTunes App Store), by Mao YinYan
 Mobile App: 5‰∏á5ÂçÉÊõ≤‰ª•‰∏ä„ÅÆ„ÇÆ„Çø„Éº„Ç≥„Éº„Éâ U-FRET(U-„Éï„É¨„ÉÉ„Éà) (iTunes App Store)
-Mobile App: Alarm Clock Xtreme: Alarm
-Mobile App: All Status Saver for WhatsApp - Status Downloader (Google Play)
-Mobile App: Apk Share Bluetooth - Send/Backup/Uninstall/Manage (Google Play)
-Mobile App: Audio & Music Player (Google Play)
-Mobile App: AudioRelay: Stream audio from PC (Google Play)
-Mobile App: BPM Tap Counter (iTunes App Store)
-Mobile App: Background Eraser „Äú Stickers ! (iTunes App Store)
-Mobile App: Bagan - Myanmar Keyboard (Google Play)
-Mobile App: Battery HD+ (iTunes App Store)
-Mobile App: Best Mirror (Google Play)
-Mobile App: Blur & Mosaic (iTunes App Store)
-Mobile App: BlurEffect-Blur Photo & Video (iTunes App Store)
-Mobile App: C Compiler (Google Play)
-Mobile App: Caho„Ç´„É¨„É≥„ÉÄ„Éº „Åã„Çè„ÅÑ„ÅÑ&‰∫∫Ê∞ó„ÅÆCaho„Ç´„É¨„É≥„ÉÄ„Éº (iTunes App Store)
-Mobile App: Camera Transparent - Transparent Live Wallpaper (Google Play)
-Mobile App: Chinese Handwriting Recog (Google Play)
-Mobile App: ChouchouCalendar (iTunes App Store)
-Mobile App: ClockZ | Clock Display + Alarm (iTunes App Store)
-Mobile App: ComicScreen - ComicViewer (Google Play)
-Mobile App: Contacts A+ free contacts
-Mobile App: Contacts Grouping Lite (iTunes App Store)
-Mobile App: Cours java (Google Play)
-Mobile App: Crypto App - Crypto Signals
-Mobile App: Cryptography - Collection of ciphers and hashes (Google Play)
-Mobile App: Cymera Camera - Collage
-Mobile App: Default Music Player (Google Play)
-Mobile App: Dot n Beat - Test your hand speed (Google Play)
-Mobile App: Drum Pad Machine - Beat Maker (Google Play)
-Mobile App: Easy Voice Recorder (Google Play)
-Mobile App: Easy to see in large letters - BigContact (iTunes App Store)
-Mobile App: File Manager (Google Play)
-Mobile App: Find My Phone Whistle - gadget finder by whistling (Google Play)
-Mobile App: Flash Game Player Classic (Google Play)
-Mobile App: FlashLight LED HD (iTunes App Store)
-Mobile App: Free Notes Notepad App (Google Play)
-Mobile App: Free Wifi Password Viewer - Security Check (Google Play)
-Mobile App: FreeTelec T√©l√©commande Freebox (Google Play)
-Mobile App: Gallery KK (Google Play)
-Mobile App: HachiCalendar2 Lite (iTunes App Store)
-Mobile App: Huji Cam (iTunes App Store)
-Mobile App: InstAddr (iTunes App Store)
-Mobile App: J Calendar (iTunes App Store)
-Mobile App: Java Espa√±ol (Google Play)
-Mobile App: Kanji Lookup (iTunes App Store)
-Mobile App: Lark Player ‚Äî‚Äî YouTube Music & Free MP3 Top Player (Google Play)
-Mobile App: ListTimer Free Timer & Alarm (Google Play)
-Mobile App: Lock screen - water droplets (Google Play)
-Mobile App: MOJi N1-Êó•ËØ≠ËÉΩÂäõËÄÉËØïÊñáÂ≠óËØçÊ±áÂ≠¶‰π†‰π¶(JLPT N1) (iTunes App Store)
-Mobile App: MOJi N3-Êó•ËØ≠ËÉΩÂäõËÄÉËØïÊñáÂ≠óËØçÊ±áÂ≠¶‰π†‰π¶(JLPT N3) (iTunes App Store)
-Mobile App: Melody Box Max (iTunes App Store)
-Mobile App: Memo - free notepad app (Google Play)
-Mobile App: Mobile C [ C/C++ Compiler ] (iTunes App Store)
-Mobile App: Mobile Number Locator - Phone Caller Location (Google Play)
-Mobile App: Money Manager Expense & Budget (Google Play)
-Mobile App: Money NoteÂÆ∂Ë®àÁ∞øÔºà„Éû„Éç„Éº„Éé„Éº„ÉàÔºâÁ∞°Âçò‰∫∫Ê∞ó„Åã„Åë„ÅÑ„Åº (iTunes App Store)
-Mobile App: Music Player (Google Play)
-Mobile App: Music Player - MP3 Player (Google Play)
-Mobile App: Music Player - MP3 Player
-Mobile App: Music player (Google Play)
-Mobile App: Natural Mirror (iTunes App Store)
-Mobile App: Noizz‚Äî Formerly Biugo App (Google Play)
-Mobile App: OfficeSuite - Free Office
-Mobile App: Offle - MP3 & MP4 Repeat Play (iTunes App Store)
-Mobile App: PCM Recorder Lite (iTunes App Store)
-Mobile App: Phonto - Text on Photos (iTunes App Store)
-Mobile App: Photo Collage - Perfect Image (iTunes App Store)
-Mobile App: Photo Collage Maker : Pic Grid (iTunes App Store)
-Mobile App: PhotoLayers„ÄúSuperimpose (iTunes App Store)
-Mobile App: Piano for iPhone (iTunes App Store)
-Mobile App: PicsArt Photo Editor: Pic
-Mobile App: PiyoLog - Baby Feed Tracker (iTunes App Store)
-Mobile App: PowerDirector - Video Editor App
-Mobile App: Powerful alarm (Alarm clock) (Google Play)
-Mobile App: QR & Barcode Reader (Google Play)
-Mobile App: QR & Barcode Scanner (Google Play)
-Mobile App: QR Code Reader & Barcode (iTunes App Store)
-Mobile App: QR Scanner & Barcode Scanner (Google Play)
-Mobile App: QR code reader - QR code & barcode scanner (Google Play)
-Mobile App: QR„Ç≥„Éº„Éâ„É™„Éº„ÉÄ„Éº for iPhone - ÁÑ°Êñô„Åß‰Ωø„Åà„ÇãQR„Ç≥„Éº„ÉâË™≠„ÅøÂèñ„ÇäÁî®„Ç¢„Éó„É™ (iTunes App Store)
-Mobile App: Quick Dialer - Phone & Address book (Google Play)
-Mobile App: Real Drum - The Best Drums Pads Sim - Get Lessons (Google Play)
-Mobile App: Recuperar fotos borradas del m√≥vil gu√≠a (Google Play)
-Mobile App: Refills Lite (iTunes App Store)
-Mobile App: SaiSuke Lite (iTunes App Store)
-Mobile App: Screen Master: Screenshot & Longshot
-Mobile App: Screen Mirroring - Mobile Connect To TV (Castto) (Google Play)
-Mobile App: Shift Work Calendar (iTunes App Store)
-Mobile App: Simple Alarm (Google Play)
-Mobile App: Simple Notes - notepad app (iTunes App Store)
-Mobile App: Sketch Me! Lite (iTunes App Store)
-Mobile App: Sleep Meister Lite (iTunes App Store)
-Mobile App: Smart Alarm Free (Alarm Clock) (Google Play)
-Mobile App: Smart Bracelet Fitpro (Google Play)
-Mobile App: Smart Compass (Google Play)
-Mobile App: Smart Metronome & Tuner (iTunes App Store)
-Mobile App: Smasher 2019 - Phone Boost (Google Play)
-Mobile App: Stamp Calendar for Girls+ (iTunes App Store)
-Mobile App: StampCalendar DX (iTunes App Store)
-Mobile App: Stark VPN Reloaded - New Stark VPN (Google Play)
-Mobile App: Stibo -‰ªòÁÆã„É°„É¢Â∏≥- (iTunes App Store)
-Mobile App: Super Fast Cleaner - Antivirus & Booster & Cleaner (Google Play)
-Mobile App: SuperVPN Free VPN Client (Google Play)
-Mobile App: SuperVPN Pro (Google Play)
-Mobile App: Superimpose Studio-Eraser
-Mobile App: Tab ToDoList -Simple ToDo App- (iTunes App Store)
-Mobile App: Teen Tormentor FREE (Google Play)
-Mobile App: The Grid: Plan for Instagram (iTunes App Store)
-Mobile App: The Simple Camera (iTunes App Store)
-Mobile App: Timer & Alarm ListTimer (iTunes App Store)
-Mobile App: Timer+ (iTunes App Store)
-Mobile App: Truecaller: Caller ID
-Mobile App: Uc„Ç´„É¨„É≥„ÉÄ„ÉºË¶ã„ÇÑ„Åô„ÅÑ„Çπ„Ç±„Ç∏„É•„Éº„É´Â∏≥ (iTunes App Store)
-Mobile App: Urdu Keyboard 2019 - ÿßÿ±ÿØŸà ⁄©€å ÿ®Ÿàÿ±⁄à (Google Play)
-Mobile App: VPN - Super Unlimited Proxy (iTunes App Store)
-Mobile App: Video App: Video Photo Editor & Montage Maker (Google Play)
-Mobile App: Video Player All Format - Full HD Video Player (Google Play)
-Mobile App: Voice Recorder - Recording App (iTunes App Store)
-Mobile App: Voice Recorder Pro (Google Play)
-Mobile App: WIFI WPS WPA TESTER (Google Play)
-Mobile App: WiFi Warden (Google Play)
-Mobile App: Zaim (iTunes App Store)
-Mobile App: call recorder 2019 (Google Play)
-Mobile App: iTextSpeaker - Text to speech (iTunes App Store)
-Mobile App: iTrainer Dog Whistle & Clicker (iTunes App Store)
-Mobile App: sonneries d'oiseaux
-Mobile App: urecy „Çπ„Ç±„Ç∏„É•„Éº„É´„Å®„É°„É¢„ÅÆÂÖ±Êúâ„Ç¢„Éó„É™ (iTunes App Store)
-Mobile App: Á∏¶Âºè - Á∏¶Êõ∏„ÅçÂÖ•Âäõ (iTunes App Store)
-Mobile App: „Éì„Éé„Éê Á§æ‰ºö -Â∞èÂ≠¶ÔºîÂπ¥Áîü- (iTunes App Store)
-Mobile App: ÿ∑ÿ±ÿ® ÿßŸÑŸÅŸäÿØŸäŸà (iTunes App Store)
-Mobile App: ÊîπË°å„Åè„Çì (iTunes App Store)
-Mobile App: „ÉÑ„Ç§„Çø„Éû - Twitter„Éñ„É©„Ç¶„Ç∂ (Google Play)
-Mobile App: „Çπ„Çø„ÇØ„É™ - „Çπ„Çø„É≥„Éó‰ΩúÊàê/ÁîªÂÉèÊñáÂ≠óÂÖ•„Çå (Google Play)
-Mobile App: „ÅÜ„Åü„Çπ„Éû Movie - Êé°ÁÇπ„Ç´„É©„Ç™„Ç±Ê≠å„ÅÑÊîæÈ°å (iTunes App Store)
-Mobile App: Êê∫Â∏ØÂ∞èË™¨‚ë© - ÊúÄÂº∑„ÅÆÈõªÂ≠êÊõ∏Á±ç„É™„Éº„ÉÄ„Éº (iTunes App Store)
-Mobile App: „Ç∑„Éï„ÉàÊâãÂ∏≥ Pro : „Ç∑„Éï„ÉàÁµ¶ÊñôË®àÁÆó„Å®„Ç∑„Éï„ÉàÁÆ°ÁêÜ„ÅÆ„Ç¢„Éó„É™ (iTunes App Store)
 Mobile App: ÂãïÁîª„Ç∑„Çß„Ç¢ „ÄúÂÜôÁúü„ÇÑÂãïÁîª„ÇíÂÖ±ÊúâÔºÅ (iTunes App Store)
-Mobile App: Á≤§ËØ≠ÊµÅÂà©ËØ¥-Á≤§ËØ≠Ê≠åÊãºÈü≥Â≠¶‰π†ÁøªËØë (iTunes App Store)
-Mobile App: „Ç∑„É≥„Éó„É´Êó•Ë®ò - ÂÜôÁúü„ÇíË®òÂÖ•„Åô„Çã„ÄÅ„Åã„Çè„ÅÑ„ÅÑÊó•Ë®òÂ∏≥„ÅÇ„Å∑„Çä (iTunes App Store)
-Mobile App: ÊúâÂ£∞Â∞èËØ¥Â§ßÂÖ®(Êµ∑ÈáèÊõ¥Êñ∞) (iTunes App Store)
 Mobile App: Âéü‰ªòÂÖçË®±Ë©¶È®ìÂïèÈ°åÈõÜ (iTunes App Store)
-Mobile App: ‰ªÆÂÖç„Éª‰ªÆÂÖçË®±ÂïèÈ°åÈõÜ ‰ªÆÂÖçÂ≠¶ÁßëË©¶È®ì (iTunes App Store)
-Mobile App: „Éè„ÉÉ„Éî„Éº„Çπ„Ç±„Ç∏„É•„Éº„É´ „Ç∑„É≥„Éó„É´„Åß„Åã„Çè„ÅÑ„ÅÑ„ÄÅ„Ç´„É¨„É≥„ÉÄ„Éº (iTunes App Store)
-Mobile App: „Åã„Åë„ÅÑ„ÅºÁ∞°Âçò„Åä„Åì„Å•„Åã„ÅÑÂ∏≥ - ‰∫∫Ê∞ó„ÅÆÂÆ∂Ë®àÁ∞ø(„Åã„Åë„ÅÑ„Åº) (iTunes App Store)
+Mobile App: Âéü‰ªòÂÖçË®±Ë©¶È®ìÂïèÈ°åÈõÜ (iTunes App Store), by Trips LLC
+Mobile App: Alarm & Timer (iTunes App Store), by KAZUTERU YOKOI
+Mobile App: Alarm Clock Xtreme: Alarm
+Mobile App: Alarm Clock Xtreme: Alarm, Stopwatch, Timer (Free) (Google Play), by AVG Labs
+Mobile App: Alarmy - Routine Alarm clock (iTunes App Store), by Delight Room Co., Ltd.
+Mobile App: All Status Saver for WhatsApp - Status Downloader (Google Play)
+Mobile App: All Status Saver for WhatsApp - Status Downloader (Google Play), by Download Status App Studio
+Mobile App: AnalyticsPM (iTunes App Store), by PROJECT MODE, INC.
+Mobile App: Anime Wallpapers Live (Google Play), by Wallpaper for me
+Mobile App: Apk Share Bluetooth - Send/Backup/Uninstall/Manage (Google Play)
+Mobile App: Apk Share Bluetooth - Send/Backup/Uninstall/Manage (Google Play), by Lucky Developer
+Mobile App: Audio & Music Player (Google Play)
+Mobile App: Audio & Music Player (Google Play), by JRT Studio Music Players
+Mobile App: AudioRelay: Stream audio from PC (Google Play)
+Mobile App: AudioRelay: Stream audio from PC (Google Play), by azEf
+Mobile App: Audipo - Audio Speed Changer - (iTunes App Store), by hidekazu seto
+Mobile App: Á≤§ËØ≠ÊµÅÂà©ËØ¥-Á≤§ËØ≠Ê≠åÊãºÈü≥Â≠¶‰π†ÁøªËØë (iTunes App Store)
+Mobile App: Á≤§ËØ≠ÊµÅÂà©ËØ¥-Á≤§ËØ≠Ê≠åÊãºÈü≥Â≠¶‰π†ÁøªËØë (iTunes App Store), by fang guoli
+Mobile App: Á∏¶Âºè - Á∏¶Êõ∏„ÅçÂÖ•Âäõ (iTunes App Store)
+Mobile App: BPM Tap Counter (iTunes App Store)
+Mobile App: BPM Tap Counter (iTunes App Store), by SHIGETO TAKAGI
+Mobile App: Background Eraser „Äú Stickers ! (iTunes App Store)
+Mobile App: Background Eraser „Äú Stickers ! (iTunes App Store), by handyCloset Inc.
+Mobile App: Bagan - Myanmar Keyboard (Google Play)
+Mobile App: Bagan - Myanmar Keyboard (Google Play), by Bagan Innovation Technology
+Mobile App: Band Live Rock (Google Play), by Batalsoft Music Apps
+Mobile App: Battery HD+ (iTunes App Store)
+Mobile App: Battery HD+ (iTunes App Store), by smalltech sarl
+Mobile App: Been Together(Ad) (iTunes App Store), by Been Together Inc.
+Mobile App: Best Mirror (Google Play)
+Mobile App: Best Stopwatch (iTunes App Store), by Serhii Simkovskyi
+Mobile App: Blur & Mosaic (iTunes App Store)
+Mobile App: Blur & Mosaic (iTunes App Store), by Yu Abe
+Mobile App: Blur Photo Background & Mosaic (iTunes App Store), by Shiho Sadamizu
+Mobile App: BlurEffect-Blur Photo & Video (iTunes App Store)
+Mobile App: BlurEffect-Blur Photo & Video (iTunes App Store), by KALEIDOSCOPE Inc.
+Mobile App: Bowlards Memo (Google Play), by hayandroid
+Mobile App: Boxing Interval Timer (iTunes App Store), by Thang Nguyen
+Mobile App: C Compiler (Google Play)
+Mobile App: C Compiler (Google Play), by iLabbs
+Mobile App: Caho„Ç´„É¨„É≥„ÉÄ„Éº „Åã„Çè„ÅÑ„ÅÑ&‰∫∫Ê∞ó„ÅÆCaho„Ç´„É¨„É≥„ÉÄ„Éº (iTunes App Store)
+Mobile App: Cahoカレンダー　人気の可愛い手帳かれんだー (iTunes App Store), by RAN CHEN
+Mobile App: Calculator (Google Play), by TricolorCat
+Mobile App: Calculatronics: EE calculators (Google Play), by Anas Abubakar
+Mobile App: CamScanner - PDF Scanner App (Google Play), by CamSoft Information
+Mobile App: Camera Transparent - Transparent Live Wallpaper (Google Play)
+Mobile App: Camera Transparent - Transparent Live Wallpaper (Google Play), by Cute Wallpapers Studio
+Mobile App: Chinese Handwriting Recog (Google Play)
+Mobile App: Chinese Handwriting Recog (Google Play), by Dev CHOE
+Mobile App: ChouchouCalendar (iTunes App Store)
+Mobile App: ChouchouCalendar (iTunes App Store), by YUUSUKE SASOU
+Mobile App: ClevCalc - Calculator (iTunes App Store), by Cleveni Inc.
+Mobile App: ClockZ | Clock Display + Alarm (iTunes App Store)
+Mobile App: ClockZ | Clock Display + Alarm (iTunes App Store), by Flymaps Inc.
+Mobile App: ColumnCalendar and Memo (iTunes App Store), by Shigeo Fukuda
+Mobile App: ComicScreen - ComicViewer (Google Play)
+Mobile App: ComicScreen - PDF, ComicReader (Google Play), by InstSoft
+Mobile App: Contacts A+ free contacts
+Mobile App: Contacts A+ free contacts, groups & dialer app (Google Play), by URECY WORKS LLC
+Mobile App: Contacts Grouping Lite (iTunes App Store)
+Mobile App: Contacts Grouping Lite (iTunes App Store), by Seisei Ten
+Mobile App: Continuing calendar (iTunes App Store), by Megumi Kawamura
+Mobile App: Countdown° (iTunes App Store), by rongsheng li
+Mobile App: Cours java (Google Play)
+Mobile App: Cours java (Google Play), by Rewards App
+Mobile App: Crypto App - Crypto Signals
+Mobile App: Crypto App - Crypto Signals, Charts, News, TA more (Google Play), by All In One Crypto App
+Mobile App: Cryptography - Collection of ciphers and hashes (Google Play)
+Mobile App: Cryptography - Collection of ciphers and hashes (Google Play), by Nitramite
+Mobile App: Cymera Camera - Collage
+Mobile App: Cymera Camera - Collage, Selfie Camera, Pic Editor (Google Play), by SK Communications
+Mobile App: Daily Planner with Calendar (iTunes App Store), by KIYO, K.K.
+Mobile App: Default Music Player (Google Play)
+Mobile App: Default Music Player (Google Play), by JAYAVELU V
+Mobile App: Digital Clock - Big LED Alarm (iTunes App Store), by Junjie Ruan
+Mobile App: DiscDj 3D Music Player - 3D Dj Music Mixer Studio (Google Play), by GameG
+Mobile App: Dot n Beat - Test your hand speed (Google Play)
+Mobile App: Dot n Beat - Test your hand speed (Google Play), by Badsnowball Limited
+Mobile App: Drum Pad Machine - Beat Maker (Google Play)
+Mobile App: Drum Pad Machine - beat maker (Google Play), by Easybrain
+Mobile App: Duolingo - Language Lessons (iTunes App Store), by Duolingo, Inc
+Mobile App: Easy Voice Recorder (Google Play)
+Mobile App: Easy Voice Recorder (Google Play), by Digipom
+Mobile App: Easy to see in large letters - BigContact (iTunes App Store)
+Mobile App: Easy to see in large letters - BigContact (iTunes App Store), by aguuu Inc.
+Mobile App: Êê∫Â∏ØÂ∞èË™¨‚ë© - ÊúÄÂº∑„ÅÆÈõªÂ≠êÊõ∏Á±ç„É™„Éº„ÉÄ„Éº (iTunes App Store)
+Mobile App: ÊîπË°å„Åè„Çì (iTunes App Store)
+Mobile App: Eth Mining (Google Play), by assem ahmed
+Mobile App: ÊúâÂ£∞Â∞èËØ¥Â§ßÂÖ®(Êµ∑ÈáèÊõ¥Êñ∞) (iTunes App Store)
+Mobile App: ÊúâÂ£∞Â∞èËØ¥Â§ßÂÖ®(Êµ∑ÈáèÊõ¥Êñ∞) (iTunes App Store), by Top100
+Mobile App: Export Audio (iTunes App Store), by Nobutaka Yuasa
 Mobile App: Êº¢Â≠óÊ§úÂÆö„ÉªÊº¢Ê§úÊº¢Â≠ó„Éà„É¨„Éº„Éã„É≥„Ç∞ (iTunes App Store)
+Mobile App: Êº¢Â≠óÊ§úÂÆö„ÉªÊº¢Ê§úÊº¢Â≠ó„Éà„É¨„Éº„Éã„É≥„Ç∞ (iTunes App Store), by Gakko Net Inc.
 Mobile App: Ë™≠„Åø‰∏ä„Åí„Äå„ÇÜ„Å£„Åè„ÇäÊ£íË™≠„Åø„Éà„Éº„ÇØ„Äç (iTunes App Store)
-Mobile App: „Ç∑„É≥„Éó„É´„Ç´„É¨„É≥„ÉÄ„Éº„ÄÄÔºà„Åó„Çì„Å∑„Çã„Åã„Çå„Çì„Å†„Éº„ÄÄS„Ç´„É¨„É≥„ÉÄ„ÉºÔºâ (iTunes App Store)
+Mobile App: File Manager (Google Play)
+Mobile App: File Manager (Google Play), by Flashlight + Clock
+Mobile App: Find My Phone Whistle - gadget finder by whistling (Google Play)
+Mobile App: Find My Phone Whistle - gadget finder by whistling (Google Play), by Appache Tools: Find my phone by whistle & by clap
+Mobile App: Flash Game Player Classic (Google Play)
+Mobile App: Flash Game Player Classic (Google Play), by Mobile Apps Studio
+Mobile App: FlashLight LED HD (iTunes App Store)
+Mobile App: FlashLight LED HD (iTunes App Store), by smalltech sarl
+Mobile App: Free Crypto Signals with Auto Trading, Crypto News (Google Play), by All In One Crypto App
+Mobile App: Free Notes Notepad App (Google Play)
+Mobile App: Free Notes Notepad App (Google Play), by Marco Meyer
+Mobile App: Free Wifi Password Viewer - Security Check (Google Play)
+Mobile App: Free Wifi Password Viewer - Security Check (Google Play), by WiFi Secure Apps
+Mobile App: FreeTelec T√©l√©commande Freebox (Google Play)
+Mobile App: FreeTelec T√©l√©commande Freebox (Google Play), by r0ro
+Mobile App: Gallery KK (Google Play)
+Mobile App: Gallery KK (Google Play), by Moblynx
+Mobile App: HA Tunnel Plus - 100% Free VPN Tunnel (Google Play), by Art Of Tunnel
+Mobile App: HD Video Projector Simulator (Google Play), by Krishna Graphics
+Mobile App: HachiCalendar2 Lite (iTunes App Store)
+Mobile App: HachiCalendar2 Lite (iTunes App Store), by shao hua shi
+Mobile App: HachiCalendar3 (iTunes App Store), by shao hua shi
+Mobile App: Handwriting Note (Google Play), by memoga
+Mobile App: Hayaemon - Music Player (iTunes App Store), by Ryota Yamauchi
+Mobile App: Huji Cam (iTunes App Store)
+Mobile App: Huji Cam (iTunes App Store), by Manhole, Inc.
+Mobile App: Icon SD for custom home screen (iTunes App Store), by Daisuke Suzuki
+Mobile App: InShot - Video Editor (iTunes App Store), by InstaShot Inc.
+Mobile App: InstAddr (iTunes App Store)
+Mobile App: InstAddr (iTunes App Store), by Aki Ueno
+Mobile App: J Calendar (iTunes App Store)
+Mobile App: J Calendar (iTunes App Store), by PiyoLog Inc.
+Mobile App: Jam Música (Google Play), by Горяний
+Mobile App: Java Espa√±ol (Google Play)
+Mobile App: Java Espa√±ol (Google Play), by CoderBro
+Mobile App: Kanji Lookup (iTunes App Store)
+Mobile App: Kanji Lookup (iTunes App Store), by telethon k.k.
+Mobile App: Lark Player ‚Äî‚Äî YouTube Music & Free MP3 Top Player (Google Play)
+Mobile App: Lark Player ‚Äî‚Äî YouTube Music & Free MP3 Top Player (Google Play), by Mobiuspace Tech Top Player
+Mobile App: Learning Korean Language (iTunes App Store), by HIKARI NAKASHIMA
+Mobile App: Libero Mail (Google Play), by Italiaonline S.p.A.
+Mobile App: Lifebear :スケジュール帳カレンダーの管理手帳 (iTunes App Store), by Lifebear inc.
+Mobile App: Lightning QR code reader : QR code scanner (Google Play), by Application4u
+Mobile App: ListTimer Free Timer & Alarm (Google Play)
+Mobile App: ListTimer Free Timer & Alarm (Google Play), by Lemon App LLC
+Mobile App: Liver Sound Box (iTunes App Store), by Tomohiro Ohwada
+Mobile App: Lock screen - water droplets (Google Play)
+Mobile App: Lock screen - water droplets (Google Play), by kunkun apps
+Mobile App: MOJi N1-Êó•ËØ≠ËÉΩÂäõËÄÉËØïÊñáÂ≠óËØçÊ±áÂ≠¶‰π†‰π¶(JLPT N1) (iTunes App Store)
+Mobile App: MOJi N1-Êó•ËØ≠ËÉΩÂäõËÄÉËØïÊñáÂ≠óËØçÊ±áÂ≠¶‰π†‰π¶(JLPT N1) (iTunes App Store), by Hugecore Information Technology (Guangzhou) Co.,Ltd.
+Mobile App: MOJi N3-Êó•ËØ≠ËÉΩÂäõËÄÉËØïÊñáÂ≠óËØçÊ±áÂ≠¶‰π†‰π¶(JLPT N3) (iTunes App Store)
+Mobile App: MOJi N3-Êó•ËØ≠ËÉΩÂäõËÄÉËØïÊñáÂ≠óËØçÊ±áÂ≠¶‰π†‰π¶(JLPT N3) (iTunes App Store), by Hugecore Information Technology (Guangzhou) Co.,Ltd.
+Mobile App: Maimo (Google Play), by センターモバイル
+Mobile App: Maimo (iTunes App Store), by CENTER MOBILE, K.K.
+Mobile App: Melody Box Max (iTunes App Store)
+Mobile App: Melody Box Max (iTunes App Store), by jung chang geun
+Mobile App: Memo - Notepad for Note Taking (iTunes App Store), by Komorebi Inc.
+Mobile App: Memo - free notepad app (Google Play)
+Mobile App: Mirror : Natural Mirror 4K (iTunes App Store), by sky-nexus Inc.
+Mobile App: Mobile C [ C/C++ Compiler ] (iTunes App Store)
+Mobile App: Mobile C [ C/C++ Compiler ] (iTunes App Store), by Jeong Seop Lee
+Mobile App: Mobile Number Locator - Phone Caller Location (Google Play)
+Mobile App: Mobile Number Locator - Phone Caller Location (Google Play), by Video Downloader - Download Videos - Video Player
+Mobile App: Money Manager Expense & Budget (Google Play)
+Mobile App: Money Manager Expense & Budget (Google Play), by Realbyte Inc.
+Mobile App: Money Manager Expense & Budget (iTunes App Store), by Realbyte Inc.
+Mobile App: Money NoteÂÆ∂Ë®àÁ∞øÔºà„Éû„Éç„Éº„Éé„Éº„ÉàÔºâÁ∞°Âçò‰∫∫Ê∞ó„Åã„Åë„ÅÑ„Åº (iTunes App Store)
+Mobile App: Money Note家計簿（マネーノート）簡単人気かけいぼ (iTunes App Store), by Komorebi Inc.
+Mobile App: Monthly Calendar Moca (iTunes App Store), by aill, k.k. (JP)
+Mobile App: Music Player (Google Play)
+Mobile App: Music Player (Google Play), by Music Player.
+Mobile App: Music Player - MP3 Player
+Mobile App: Music Player - MP3 Player (Google Play)
 Mobile App: Music Player - MP3 Player (Google Play), by Apps10X
 Mobile App: Music Player - MP3 Player, Audio Player (Google Play), by InShot Inc.
+Mobile App: Music player (Google Play)
 Mobile App: Music player (Google Play), by recorder & smart apps
+Mobile App: MyEditor - Easy Video Editor! (iTunes App Store), by kazuki oota
+Mobile App: MySubtitle (iTunes App Store), by kazuki oota
+Mobile App: N Calendar: To Do Planner (iTunes App Store), by Komorebi Inc.
+Mobile App: Natural Mirror (iTunes App Store)
+Mobile App: Noizz‚Äî Formerly Biugo App (Google Play)
 Mobile App: Noizz‚Äî Formerly Biugo App (Google Play), by biugo
+Mobile App: Note pad-Memo Note-simple note book for free (iTunes App Store), by NAKAYUBI CORPORATION
+Mobile App: Notepad - notes & memo app (Google Play), by Komorebi Inc.
+Mobile App: Nursing Timer (iTunes App Store), by JUNHYUN CHO
+Mobile App: OfficeSuite - Free Office
 Mobile App: OfficeSuite - Free Office, PDF, Word,Sheets,Slides (Google Play), by MobiSystems
+Mobile App: Offle - MP3 & MP4 Repeat Play (iTunes App Store)
 Mobile App: Offle - MP3 & MP4 Repeat Play (iTunes App Store), by kim juyoung
-Mobile App: PowerDirector - Video Editor App, Best Video Maker (Google Play), by CyberLink.com
-Mobile App: QR & Barcode Reader (Google Play), by TeaCapps
-Mobile App: QR & Barcode Scanner (Google Play), by Gamma Play
-Mobile App: QR code reader - QR code & barcode scanner (Google Play), by Best App - Top Droid Team
-Mobile App: QR„Ç≥„Éº„Éâ„É™„Éº„ÉÄ„Éº for iPhone - ÁÑ°Êñô„Åß‰Ωø„Åà„ÇãQR„Ç≥„Éº„ÉâË™≠„ÅøÂèñ„ÇäÁî®„Ç¢„Éó„É™ (iTunes App Store), by YUTA MURAOKA
-Mobile App: Quick Dialer - Phone & Address book (Google Play), by miruker apps
-Mobile App: Real Drum - The Best Drums Pads Sim - Get Lessons (Google Play), by Kolb Apps
-Mobile App: Recuperar fotos borradas del m√≥vil gu√≠a (Google Play), by Pelichin
-Mobile App: Screen Master: Screenshot & Longshot, Photo Markup (Google Play), by Blossgraph
-Mobile App: Screen Mirroring - Mobile Connect To TV (Castto) (Google Play), by SoomApps
-Mobile App: Sleep Meister Lite (iTunes App Store), by Naoya Araki
-Mobile App: Smart Alarm Free (Alarm Clock) (Google Play), by TanyuSoft
-Mobile App: Smart Bracelet Fitpro (Google Play), by Shenzhen Jusheng Intelligent Technology Co., Ltd.
-Mobile App: Smart Compass (Google Play), by Smart Tools co.
-Mobile App: Smasher 2019 - Phone Boost (Google Play), by InnoDev Pro Team
-Mobile App: Stamp Calendar for Girls+ (iTunes App Store), by ZAIZEN Co., Ltd.
-Mobile App: Stark VPN Reloaded - New Stark VPN (Google Play), by iStark
-Mobile App: Super Fast Cleaner - Antivirus & Booster & Cleaner (Google Play), by Phone Clean Apps
-Mobile App: SuperVPN Free VPN Client (Google Play), by SuperSoftTech
-Mobile App: SuperVPN Pro (Google Play), by SuperSoftTech
-Mobile App: Teen Tormentor FREE (Google Play), by Patrick Giudicelli
-Mobile App: Truecaller: Caller ID, SMS, spam block & payments (Google Play), by True Software Scandinavia AB
-Mobile App: Urdu Keyboard 2019 - ÿßÿ±ÿØŸà ⁄©€å ÿ®Ÿàÿ±⁄à (Google Play), by Appscourt
-Mobile App: VPN - Super Unlimited Proxy (iTunes App Store), by Mobile Jump
-Mobile App: Video App: Video Photo Editor & Montage Maker (Google Play), by Gomin Mobile: QR Code & Video Show Video Maker
-Mobile App: Video Player All Format - Full HD Video Player (Google Play), by ASD Dev Video Player for All Format
-Mobile App: Voice Recorder - Recording App (iTunes App Store), by Linfei Ltd.
-Mobile App: Voice Recorder Pro (Google Play), by Splend Apps
-Mobile App: WIFI WPS WPA TESTER (Google Play), by Sangiorgi Srl
-Mobile App: WiFi Warden (Google Play), by EliyanPro
-Mobile App: call recorder 2019 (Google Play), by apps corner
-Mobile App: iTextSpeaker - Text to speech (iTunes App Store), by iLeaf
-Mobile App: sonneries d'oiseaux, sons d'oiseaux gratuit (Google Play), by ingenioxapps
-Mobile App: ÿ∑ÿ±ÿ® ÿßŸÑŸÅŸäÿØŸäŸà (iTunes App Store), by Saed Hamdan
-Mobile App: „Çπ„Çø„ÇØ„É™ - „Çπ„Çø„É≥„Éó‰ΩúÊàê/ÁîªÂÉèÊñáÂ≠óÂÖ•„Çå (Google Play), by U-Shipps
-Mobile App: Á≤§ËØ≠ÊµÅÂà©ËØ¥-Á≤§ËØ≠Ê≠åÊãºÈü≥Â≠¶‰π†ÁøªËØë (iTunes App Store), by fang guoli
-Mobile App: ÊúâÂ£∞Â∞èËØ¥Â§ßÂÖ®(Êµ∑ÈáèÊõ¥Êñ∞) (iTunes App Store), by Top100
-Mobile App: Âéü‰ªòÂÖçË®±Ë©¶È®ìÂïèÈ°åÈõÜ (iTunes App Store), by Trips LLC
-Mobile App: ‰ªÆÂÖç„Éª‰ªÆÂÖçË®±ÂïèÈ°åÈõÜ ‰ªÆÂÖçÂ≠¶ÁßëË©¶È®ì (iTunes App Store), by Trips LLC
-Mobile App: Êº¢Â≠óÊ§úÂÆö„ÉªÊº¢Ê§úÊº¢Â≠ó„Éà„É¨„Éº„Éã„É≥„Ç∞ (iTunes App Store), by Gakko Net Inc.
-Mobile App: Truecaller: Caller ID & Spam (Google Play), by Truecaller
-Mobile App: SuperVPN Pro (Google Play), by SuperSoftTech
-Mobile App: zFont 3 - Emoji & Custom Font Changer [No ROOT] (Google Play), by Khun Htetz Naing
-Mobile App: HA Tunnel Plus - 100% Free VPN Tunnel (Google Play), by Art Of Tunnel
-Mobile App: VPN Malaysia - get free Malaysian IP (Google Play), by AltApps
-Mobile App: Speedy Quark VPN - Fast Servers & Secure Proxy (Google Play), by Free VPN - Fast Proxy Inc.
-Mobile App: C Compiler (Google Play), by iLabbs
-Mobile App: Bagan - Myanmar Keyboard (Google Play), by Bagan Innovation Technology
-Mobile App: Cryptography - Collection of ciphers and hashes (Google Play), by Nitramite
-Mobile App: SuperVPN Free VPN Client (Google Play), by SuperSoftTech
-Mobile App: Eth Mining (Google Play), by assem ahmed
-Mobile App: Urdu Keyboard 2021 - ÿßÿ±ÿØŸà ⁄©€å ÿ®Ÿàÿ±⁄à (Google Play), by Appscourt
-Mobile App: Photo Vault, App Lock, Gallery Vault, Photo Locker (Google Play), by Media Tech Studioz
-Mobile App: HD Video Projector Simulator (Google Play), by Krishna Graphics
-Mobile App: Free Crypto Signals with Auto Trading, Crypto News (Google Play), by All In One Crypto App
-Mobile App: Stark VPN Reloaded (Google Play), by iStark Dev
-Mobile App: Melody Box Max (iTunes App Store), by jung chang geun
-Mobile App: Smart Metronome & Tuner (iTunes App Store), by Tomohiro Ihara
-Mobile App: Shift Work Calendar (iTunes App Store), by Ebisu Soft Inc.
-Mobile App: PiyoLog: Newborn Baby Tracker (iTunes App Store), by PiyoLog Inc.
-Mobile App: Superimpose+:Background Eraser (iTunes App Store), by KALEIDOSCOPE Inc.
+Mobile App: One Touch Alarm Clock (iTunes App Store), by HANBUNCO, INC.
+Mobile App: PCM Recorder Lite (iTunes App Store)
+Mobile App: PCM Recorder Lite (iTunes App Store), by Kohei Yasui
+Mobile App: PV - Secret Photo Album (iTunes App Store), by Shanghai Cuntu Technology Co., Ltd.
+Mobile App: Pair Cale (iTunes App Store), by Kazumasa Shimomura
+Mobile App: Palu - Handwriting Calendar - (iTunes App Store), by MetaMoJi Corporation
+Mobile App: Panecal Scientific Calculator (iTunes App Store), by Noriyasu Kutsuzawa
+Mobile App: Password Manager Lite (iTunes App Store), by Gerinn LLC
+Mobile App: Penguin Diary :Record & Health (iTunes App Store), by Masao Saeki
+Mobile App: Pennyworth Expense Tracker App (iTunes App Store), by Jack Xuan
+Mobile App: Perfect Mirror (Google Play), by Netigen Tools
+Mobile App: Phonto - Text on Photos (iTunes App Store)
 Mobile App: Phonto - Text on Photos (iTunes App Store), by Yusuke Horie
-Mobile App: Superimpose+:Background Eraser (iTunes App Store), by KALEIDOSCOPE Inc.
+Mobile App: Photo Collage - Perfect Image (iTunes App Store)
+Mobile App: Photo Collage Maker : Pic Grid (iTunes App Store)
+Mobile App: Photo Collage Maker : Pic Grid (iTunes App Store), by Ankur Chauhan
+Mobile App: Photo Vault, App Lock, Gallery Vault, Photo Locker (Google Play), by Media Tech Studioz
+Mobile App: Photo montage photography (Google Play), by TLCM photo montage apps
+Mobile App: PhotoFrame Simple (iTunes App Store), by Yosuke Seki
+Mobile App: PhotoLayers (iTunes App Store), by handyCloset Inc.
+Mobile App: PhotoLayers„ÄúSuperimpose (iTunes App Store)
+Mobile App: Piano for iPhone (iTunes App Store)
+Mobile App: Piano for iPhone (iTunes App Store), by ZongMing Yang
+Mobile App: Pic Collage Maker PerfectImage (iTunes App Store), by Hao Li
+Mobile App: PicsArt Photo Editor: Pic
+Mobile App: Picsart Photo & Video Editor (Google Play), by PicsArt, Inc.
+Mobile App: PiyoLog - Baby Feed Tracker (iTunes App Store)
 Mobile App: PiyoLog: Newborn Baby Tracker (iTunes App Store), by PiyoLog Inc.
+Mobile App: Popup Notification for LINE (ONLY with LINE app) (Google Play), by kame3
+Mobile App: PowerDirector - Video Editor App
+Mobile App: PowerDirector - Video Editor App, Best Video Maker (Google Play), by CyberLink.com
+Mobile App: Powerful alarm (Alarm clock) (Google Play)
+Mobile App: Powerful alarm (Alarm clock) (Google Play), by Sleeply
+Mobile App: Prime Sleep Recorder (iTunes App Store), by Apirox, s.r.o.
+Mobile App: QR & Barcode Reader (Google Play)
+Mobile App: QR & Barcode Reader (Google Play), by TeaCapps
+Mobile App: QR & Barcode Scanner (Google Play)
+Mobile App: QR & Barcode Scanner (Google Play), by Gamma Play
+Mobile App: QR Code & Barcode Scanner (Google Play), by QR Easy
+Mobile App: QR Code Reader & Barcode (iTunes App Store)
+Mobile App: QR Code Reader & QR Scanner! (iTunes App Store), by MixerBox Inc.
+Mobile App: QR Scanner & Barcode Scanner (Google Play)
+Mobile App: QR Scanner (Google Play), by 1MB
+Mobile App: QR code reader - QR code & barcode scanner (Google Play)
+Mobile App: QR code reader - QR code & barcode scanner (Google Play), by Best App - Top Droid Team
+Mobile App: QR„Ç≥„Éº„Éâ„É™„Éº„ÉÄ„Éº for iPhone - ÁÑ°Êñô„Åß‰Ωø„Åà„ÇãQR„Ç≥„Éº„ÉâË™≠„ÅøÂèñ„ÇäÁî®„Ç¢„Éó„É™ (iTunes App Store)
+Mobile App: QR„Ç≥„Éº„Éâ„É™„Éº„ÉÄ„Éº for iPhone - ÁÑ°Êñô„Åß‰Ωø„Åà„ÇãQR„Ç≥„Éº„ÉâË™≠„ÅøÂèñ„ÇäÁî®„Ç¢„Éó„É™ (iTunes App Store), by YUTA MURAOKA
+Mobile App: Quick Dialer - Phone & Address book (Google Play)
+Mobile App: Quick Dialer - Phone & Address book (Google Play), by miruker apps
+Mobile App: QuicklyMemo (iTunes App Store), by EIICHI KOMINE
+Mobile App: Radarbot: Speed Camera Detector & Speedometer (Google Play), by Iteration Mobile & Vialsoft Apps
+Mobile App: Real Bass: electric guitar (Google Play), by Kolb Apps
+Mobile App: Real Drum - The Best Drums Pads Sim - Get Lessons (Google Play)
+Mobile App: Real Drum - The Best Drums Pads Sim - Get Lessons (Google Play), by Kolb Apps
+Mobile App: Recuperar fotos borradas del m√≥vil gu√≠a (Google Play)
+Mobile App: Recuperar fotos borradas del m√≥vil gu√≠a (Google Play), by Pelichin
+Mobile App: Refills Lite (iTunes App Store)
+Mobile App: Refills Lite (iTunes App Store), by FUJISOFT Inc.
+Mobile App: Repost for Instagram ° (iTunes App Store), by OneCutOne Technology Co. Ltd.
+Mobile App: Rhythm Care (Google Play), by dot-i studio
+Mobile App: SaiSuke Lite (iTunes App Store)
+Mobile App: SaiSuke Lite (iTunes App Store), by Mobile Saysoft,Inc.
+Mobile App: SaiSuke2 (iTunes App Store), by Mobile Saysoft,Inc.
+Mobile App: Screen Master: Screenshot & Longshot
+Mobile App: Screen Master: Screenshot & Longshot, Photo Markup (Google Play), by Blossgraph
+Mobile App: Screen Mirroring - Mobile Connect To TV (Castto) (Google Play)
+Mobile App: Screen Mirroring - Mobile Connect To TV (Castto) (Google Play), by SoomApps
+Mobile App: Secret Photo Album Darkbox (iTunes App Store), by Zhixun Zhong
+Mobile App: Shift Work Calendar (iTunes App Store)
+Mobile App: Shift Work Calendar (iTunes App Store), by Ebisu Soft Inc.
+Mobile App: Shopping List: Simple Grocery (iTunes App Store), by Komorebi Inc.
+Mobile App: Silent Camera [High Quality] (Google Play), by Peace
+Mobile App: Simple Alarm (Google Play)
+Mobile App: Simple Alarm (Google Play), by Kairy Lab
+Mobile App: Simple Calendar - SimpleCal (iTunes App Store), by yohei kawase
+Mobile App: Simple Calendar: To Do Planner (iTunes App Store), by Komorebi Inc.
+Mobile App: Simple Diary: Daily Journaling (iTunes App Store), by Komorebi Inc.
+Mobile App: Simple Notes - Notepad Folder (iTunes App Store), by Komorebi Inc.
+Mobile App: Simple Notes - notepad app (iTunes App Store)
+Mobile App: Sketch Me! Lite (iTunes App Store)
+Mobile App: Sketch Me! Lite (iTunes App Store), by pierre gougelet
+Mobile App: Sleep Meister Lite (iTunes App Store)
+Mobile App: Sleep Meister Lite (iTunes App Store), by Naoya Araki
+Mobile App: Smart Alarm Free (Alarm Clock) (Google Play)
+Mobile App: Smart Alarm Free (Alarm Clock) (Google Play), by TanyuSoft
+Mobile App: Smart Bracelet Fitpro (Google Play)
+Mobile App: Smart Bracelet Fitpro (Google Play), by Shenzhen Jusheng Intelligent Technology Co., Ltd.
+Mobile App: Smart Compass (Google Play)
+Mobile App: Smart Compass (Google Play), by Smart Tools co.
+Mobile App: Smart Metronome & Tuner (Google Play), by Ihara product
+Mobile App: Smart Metronome & Tuner (iTunes App Store)
 Mobile App: Smart Metronome & Tuner (iTunes App Store), by Tomohiro Ihara
+Mobile App: SmartDiet: Weight Loss Watcher (iTunes App Store), by Komorebi Inc.
+Mobile App: Smasher 2019 - Phone Boost (Google Play)
+Mobile App: Smasher 2019 - Phone Boost (Google Play), by InnoDev Pro Team
+Mobile App: Speedy Quark VPN - Fast Servers & Secure Proxy (Google Play), by Free VPN - Fast Proxy Inc.
+Mobile App: Stamp Calendar for Girls+ (iTunes App Store)
+Mobile App: Stamp Calendar for Girls+ (iTunes App Store), by ZAIZEN Co., Ltd.
+Mobile App: StampCalendar DX (iTunes App Store)
+Mobile App: StampCalendar DX (iTunes App Store), by ZAIZEN Co., Ltd.
+Mobile App: Stark VPN Reloaded (Google Play), by iStark Dev
+Mobile App: Stark VPN Reloaded - New Stark VPN (Google Play)
+Mobile App: Stark VPN Reloaded - New Stark VPN (Google Play), by iStark
+Mobile App: Status Saver Down for Whatsapp (Google Play), by Shree Ganesha Labs
+Mobile App: Stibo -‰ªòÁÆã„É°„É¢Â∏≥- (iTunes App Store)
+Mobile App: Sticky Notebook - Stibo (iTunes App Store), by BUILD LLC
+Mobile App: Super Fast Cleaner - Antivirus & Booster & Cleaner (Google Play)
+Mobile App: Super Fast Cleaner - Antivirus & Booster & Cleaner (Google Play), by Phone Clean Apps
+Mobile App: SuperMe-Cartoon Avatar Maker (iTunes App Store), by fan yang
+Mobile App: SuperVPN Free VPN Client (Google Play)
+Mobile App: SuperVPN Free VPN Client (Google Play), by SuperSoftTech
+Mobile App: SuperVPN Pro (Google Play)
+Mobile App: SuperVPN Pro (Google Play), by SuperSoftTech
+Mobile App: Superimpose Studio-Eraser
+Mobile App: Superimpose+:Background Eraser (iTunes App Store), by KALEIDOSCOPE Inc.
+Mobile App: TBox - Video Converter (iTunes App Store), by Choi Wang
+Mobile App: Tab ToDoList -Simple ToDo App- (iTunes App Store)
+Mobile App: Teen Tormentor FREE (Google Play)
+Mobile App: Teen Tormentor FREE (Google Play), by Patrick Giudicelli
+Mobile App: The Grid: Plan for Instagram (iTunes App Store)
+Mobile App: The Grid: Plan for Instagram (iTunes App Store), by The Good App Company, Limited Liability Company
+Mobile App: The Simple Camera (iTunes App Store)
+Mobile App: The Simple Camera (iTunes App Store), by KANAME OHARA
+Mobile App: Timer & Alarm ListTimer (iTunes App Store)
+Mobile App: Timer & Alarm ListTimer (iTunes App Store), by Lemon LLC
+Mobile App: Timer+ (iTunes App Store)
+Mobile App: Timer+ · multiple timers (iTunes App Store), by Minima Software LLC
+Mobile App: Timestamp Camera Basic (iTunes App Store), by 玉彬 陈
+Mobile App: Timestamp Camera Enterprise (Google Play), by Bian Di
+Mobile App: ToDo List Reminder & Checklist (iTunes App Store), by Yoshiyuki Tanaka
+Mobile App: Treeカレンダー 簡単スケジュール管理の人気カレンダー (iTunes App Store), by RAN CHEN
+Mobile App: Truecaller: Caller ID
+Mobile App: Truecaller: Caller ID & Spam (Google Play), by Truecaller
+Mobile App: Truecaller: Caller ID, SMS, spam block & payments (Google Play), by True Software Scandinavia AB
+Mobile App: Tuner Lite by Piascore (iTunes App Store), by Piascore, Inc.
+Mobile App: U-FRET - 70000曲以上のギターコード (iTunes App Store), by GLNET Co.,Ltd.
+Mobile App: Uc„Ç´„É¨„É≥„ÉÄ„ÉºË¶ã„ÇÑ„Åô„ÅÑ„Çπ„Ç±„Ç∏„É•„Éº„É´Â∏≥ (iTunes App Store)
 Mobile App: Ucカレンダー見やすいスケジュール帳 (iTunes App Store), by Shigeru Nakaya
+Mobile App: Urdu Keyboard 2019 - ÿßÿ±ÿØŸà ⁄©€å ÿ®Ÿàÿ±⁄à (Google Play)
+Mobile App: Urdu Keyboard 2019 - ÿßÿ±ÿØŸà ⁄©€å ÿ®Ÿàÿ±⁄à (Google Play), by Appscourt
+Mobile App: Urdu Keyboard 2021 - ÿßÿ±ÿØŸà ⁄©€å ÿ®Ÿàÿ±⁄à (Google Play), by Appscourt
+Mobile App: VPN - Super Unlimited Proxy (iTunes App Store)
+Mobile App: VPN - Super Unlimited Proxy (iTunes App Store), by Mobile Jump
+Mobile App: VPN Malaysia - get free Malaysian IP (Google Play), by AltApps
+Mobile App: Video App: Video Photo Editor & Montage Maker (Google Play)
+Mobile App: Video App: Video Photo Editor & Montage Maker (Google Play), by Gomin Mobile: QR Code & Video Show Video Maker
+Mobile App: Video Mosaic App (iTunes App Store), by Yu Abe
+Mobile App: Video Player All Format (Google Play), by InShot Inc.
+Mobile App: Video Player All Format - Full HD Video Player (Google Play)
+Mobile App: Video Player All Format - Full HD Video Player (Google Play), by ASD Dev Video Player for All Format
+Mobile App: Video maker with photo and music (Google Play), by H20 Studio
+Mobile App: Virgilio Mail - Email App (Google Play), by Italiaonline S.p.A.
+Mobile App: Voice Recorder - Recording App (iTunes App Store)
+Mobile App: Voice Recorder - Recording App (iTunes App Store), by Linfei Ltd.
+Mobile App: Voice Recorder Pro (Google Play)
+Mobile App: Voice Recorder Pro (Google Play), by Splend Apps
+Mobile App: Voice changer with effects (Google Play), by Baviux
+Mobile App: WIFI WPS WPA TESTER (Google Play)
+Mobile App: WIFI WPS WPA TESTER (Google Play), by Sangiorgi Srl
+Mobile App: WataameCamera (iTunes App Store), by kenji hara
+Mobile App: WiFi Warden (Google Play)
+Mobile App: WiFi Warden (Google Play), by EliyanPro
+Mobile App: Widgetsmith (iTunes App Store), by Cross Forward Consulting, LLC
+Mobile App: Zaim (iTunes App Store)
+Mobile App: Zaim - Money Tracker (iTunes App Store), by Zaim Inc.
+Mobile App: call recorder 2019 (Google Play)
+Mobile App: call recorder 2019 (Google Play), by apps corner
+Mobile App: eSound - MP3 Music Player (iTunes App Store), by Spicy Sparks S.R.L.
+Mobile App: iTextSpeaker - Text to speech (iTunes App Store)
+Mobile App: iTextSpeaker - Text to speech (iTunes App Store), by iLeaf
+Mobile App: iTrainer Dog Whistle & Clicker (iTunes App Store)
+Mobile App: iTrainer Dog Whistle & Clicker (iTunes App Store), by Jade Lizard Software LLC
+Mobile App: nicoid (ニコニコ動画プレイヤー) (Google Play), by sauzask
+Mobile App: sonneries d'oiseaux
+Mobile App: sonneries d'oiseaux, sons d'oiseaux gratuit (Google Play), by ingenioxapps
+Mobile App: upday for Samsung (Google Play), by upday GmbH & Co. KG
+Mobile App: urecy „Çπ„Ç±„Ç∏„É•„Éº„É´„Å®„É°„É¢„ÅÆÂÖ±Êúâ„Ç¢„Éó„É™ (iTunes App Store)
+Mobile App: urecy スケジュールとメモの共有アプリ (iTunes App Store), by Shigeru Nakaya
+Mobile App: ÿ∑ÿ±ÿ® ÿßŸÑŸÅŸäÿØŸäŸà (iTunes App Store)
+Mobile App: ÿ∑ÿ±ÿ® ÿßŸÑŸÅŸäÿØŸäŸà (iTunes App Store), by Saed Hamdan
+Mobile App: zFont 3 - Emoji & Custom Font Changer [No ROOT] (Google Play), by Khun Htetz Naing
+Mobile App: „ÅÜ„Åü„Çπ„Éû Movie - Êé°ÁÇπ„Ç´„É©„Ç™„Ç±Ê≠å„ÅÑÊîæÈ°å (iTunes App Store)
+Mobile App: „Åã„Åë„ÅÑ„ÅºÁ∞°Âçò„Åä„Åì„Å•„Åã„ÅÑÂ∏≥ - ‰∫∫Ê∞ó„ÅÆÂÆ∂Ë®àÁ∞ø(„Åã„Åë„ÅÑ„Åº) (iTunes App Store)
+Mobile App: „Çπ„Çø„ÇØ„É™ - „Çπ„Çø„É≥„Éó‰ΩúÊàê/ÁîªÂÉèÊñáÂ≠óÂÖ•„Çå (Google Play)
+Mobile App: „Çπ„Çø„ÇØ„É™ - „Çπ„Çø„É≥„Éó‰ΩúÊàê/ÁîªÂÉèÊñáÂ≠óÂÖ•„Çå (Google Play), by U-Shipps
+Mobile App: „Ç∑„Éï„ÉàÊâãÂ∏≥ Pro : „Ç∑„Éï„ÉàÁµ¶ÊñôË®àÁÆó„Å®„Ç∑„Éï„ÉàÁÆ°ÁêÜ„ÅÆ„Ç¢„Éó„É™ (iTunes App Store)
+Mobile App: „Ç∑„É≥„Éó„É´Êó•Ë®ò - ÂÜôÁúü„ÇíË®òÂÖ•„Åô„Çã„ÄÅ„Åã„Çè„ÅÑ„ÅÑÊó•Ë®òÂ∏≥„ÅÇ„Å∑„Çä (iTunes App Store)
+Mobile App: „Ç∑„É≥„Éó„É´„Ç´„É¨„É≥„ÉÄ„Éº„ÄÄÔºà„Åó„Çì„Å∑„Çã„Åã„Çå„Çì„Å†„Éº„ÄÄS„Ç´„É¨„É≥„ÉÄ„ÉºÔºâ (iTunes App Store)
+Mobile App: „ÉÑ„Ç§„Çø„Éû - Twitter„Éñ„É©„Ç¶„Ç∂ (Google Play)
+Mobile App: „Éè„ÉÉ„Éî„Éº„Çπ„Ç±„Ç∏„É•„Éº„É´ „Ç∑„É≥„Éó„É´„Åß„Åã„Çè„ÅÑ„ÅÑ„ÄÅ„Ç´„É¨„É≥„ÉÄ„Éº (iTunes App Store)
+Mobile App: „Éì„Éé„Éê Á§æ‰ºö -Â∞èÂ≠¶ÔºîÂπ¥Áîü- (iTunes App Store)
+Mobile App: ‰ªÆÂÖç„Éª‰ªÆÂÖçË®±ÂïèÈ°åÈõÜ ‰ªÆÂÖçÂ≠¶ÁßëË©¶È®ì (iTunes App Store)
+Mobile App: ‰ªÆÂÖç„Éª‰ªÆÂÖçË®±ÂïèÈ°åÈõÜ ‰ªÆÂÖçÂ≠¶ÁßëË©¶È®ì (iTunes App Store), by Trips LLC
+Mobile App: 縦式 - 縦書き入力 (iTunes App Store), by Kazuyuki Mitsui
+Mobile App: ビノバ 社会 -小学４年生- (iTunes App Store), by funspire, Inc.
+Mobile App: 連絡先SS - 連絡先のグループ分け (iTunes App Store), by Shigeru Nakaya
+Mobile App: 改行くん (iTunes App Store), by Shintaro Morikawa
+Mobile App: 配当管理 (iTunes App Store), by Takanori Ochiai
+Mobile App: ツイタマ - Twitterブラウザ (Google Play), by ソフタマ
+Mobile App: うたスマ Movie - 採点カラオケ歌い放題 (iTunes App Store), by Yutaka Ishida
+Mobile App: 中日辞書 北辞郎 - 中国語のオンライン辞典 (iTunes App Store), by KLIP LLC
+Mobile App: مشغل انغامي فيديوهات (iTunes App Store), by Saed Hamdan
+Mobile App: 運転免許 普通自動車免許 学科試験問題集 (iTunes App Store), by Trips LLC
+Mobile App: 鬼から電話 (iTunes App Store), by MEDIA ACTIVE.INC
+Mobile App: 携帯小説⑩ - 最強の電子書籍リーダー (iTunes App Store), by 俊康 辛
+Mobile App: 写真を合成 -切り抜きマイスタンプ,背景透過・背景透明で合成写真- (iTunes App Store), by Magichour Corporation
+Mobile App: シフト手帳 Pro (iTunes App Store), by Funeasy Soft, Inc.
+Mobile App: 動画シェア 〜写真や動画を共有！ (iTunes App Store), by WHISON GROUP LIMITED
+Mobile App: 買い物リスト - シンプルなお買い物リスト (iTunes App Store), by Shota Yamashita
+Mobile App: 経過時間計算 ~ タイムカード けいさんき ~ (iTunes App Store), by Takaaki Sasaki
+Mobile App: 付箋メモ帳型ToDoリスト - メモ ウィジェット (iTunes App Store), by Daisuke Suzuki
+Mobile App: ギガファイル便 (iTunes App Store), by GIGA FILE, K.K.
+Mobile App: 人気めも帳かほ かわいいイラストめも帳アプリ (iTunes App Store), by RAN CHEN
+Mobile App: シンプル家計簿(かけいぼ) 人気おこづかい帳かけいぼ (iTunes App Store), by RAN CHEN
+Mobile App: ももちーかけいぼ!人気おこづかい家計簿(かけいぼ) (iTunes App Store), by RAN CHEN
+Mobile App: わたしの写真暗記帳 (iTunes App Store), by Mikiko Tamagawa
+Mobile App: 単語で覚える韓国語 - ハングル勉強アプリ (iTunes App Store), by Taro Horiguchi
+Mobile App: ハッピースケジュール シンプルでかわいい、カレンダー (iTunes App Store), by Funeasy Soft, Inc.
+Mobile App: みんなの縦型カレンダー (iTunes App Store), by Funeasy Soft, Inc.
+Mobile App: ゴルフスイング・カメラ - KiZuKi (iTunes App Store), by Libit.Inc
+Mobile App: 超じぶん管理「リズムケア」 (iTunes App Store), by Yasuo Shiohata
+Mobile App: 読み上げ「ゆっくり棒読みトーク」 (Google Play), by Nekomimimi
+Mobile App: 読み上げ「ゆっくり棒読みトーク」 (iTunes App Store), by Yoshiyuki Hirose
+Mobile App: なろう朗読（スマホでラノベを聴こう） (Google Play), by Kumao.Works
