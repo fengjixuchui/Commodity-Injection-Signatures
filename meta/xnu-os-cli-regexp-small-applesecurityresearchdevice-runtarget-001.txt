@@ -7,10 +7,12 @@
 AMFI
 AMSupportPlatformCreateBufferFromNativeFilePath
 ASI found
+aslr_offset
 ASSERT
 AppleMobileFileIntegrity_research
 Assert
 Attempting excessively
+bad base
 BREAK
 BUG IN CLIENT
 CFOpenDirectory
@@ -23,6 +25,7 @@ EXC_
 Explicitly trapping into debugger
 Error while reading
 File system sandbox blocked
+HEAP Stats
 IPConfiguration
 If this is expected behavior
 If you run under the debugger
@@ -134,11 +137,15 @@ re re --all
 recording malloc
 rejecting signature
 replacing non ev reject score
+Runtime violation
 sdk
+Secure area is not present
 send failed
+SFP Assert
 sp
 stop reason
 subsystem
+sweeping
 system-wide
 target-id
 task name
@@ -146,7 +153,10 @@ tss request
 unmount failed
 unrestricted anchor source
 unsuitable CT policy 0
+Using fixed (injected) offsets
 variant
+VREF
+VOC
 verification failed
 We had an entry for
 which is not a bundle
