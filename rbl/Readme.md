@@ -8,6 +8,4 @@ This Directory was Established TUE 22 FEB 2022 with Samples to Experiment with G
 - If you work on Wall Street, this is some of the garbage your Spreadsheets are built upon to predict EPS
 - If you work at Google, this RBL is due to massive AD CDN Click Fraud
 
-Sites listed in the bind.cx rbl may be withdrawn by Request of the Ad Network Sponsor Only. 
-
-File an Issue to ask for Withdrawal from the bind.cx real-time block lists.
+Sites listed in the bind.cx rbl may be withdrawn by Request of the __Ad Network Sponsor Only__ by Issue
