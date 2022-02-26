@@ -145,6 +145,7 @@ SFP Assert
 sp
 stop reason
 subsystem
+Successfully loaded a new image4 v1 trust cache
 sweeping
 system-wide
 target-id
