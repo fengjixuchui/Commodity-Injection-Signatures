@@ -29,6 +29,7 @@ HEAP Stats
 IPConfiguration
 If this is expected behavior
 If you run under the debugger
+internal event: PETRIFIED, code = 0
 Invalid argument
 LOAD
 Library not loaded:
