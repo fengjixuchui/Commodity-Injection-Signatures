@@ -55,6 +55,7 @@ Sandbox
 SecKeyVerifySignature failed
 SystemCache
 TARGETED_DEVICE_FAMILY
+The optional requiredEntitlements method was implemented, but no entitlements were provided.
 Unable to get short BSD proc info
 Unable to obtain
 Unable to obtain a task name port right for
