@@ -5,6 +5,9 @@ _cryptex_bundle_find_cryptex_elm
 17.
 ==> debugserver
 @rpath
+about to
+About to ptrace
+about to task_for_pid
 AppleImage4
 AMFI
 AMSupportPlatformCreateBufferFromNativeFilePath
@@ -21,6 +24,7 @@ bad base
 BREAK
 BUG IN CLIENT
 caller not entitled
+Completed ptrace
 com.apple.private
 com.apple.private.security
 copy_parent_certificates
@@ -82,6 +86,7 @@ OS_REASON_EXEC
 OS_REASON
 Object
 PETRIFIED
+PT_ATTACHEXC
 Please file a bug for
 Please file a radar
 Please migrate to
@@ -107,8 +112,10 @@ SIGTERM
 SIGTERMed
 SIGKILLed
 SIGBUS
+successfully task_for_pid
 SystemCache
 TARGETED_DEVICE_FAMILY
+task_for_pid
 times in a row
 Trying to create CR directory structure as root
 The optional requiredEntitlements method was implemented, but no entitlements were provided.
@@ -120,6 +127,7 @@ Variant
 WILL_SPAWN
 Waiting for a client to connect
 Warning Denying process assertion
+will use ASL
 XPC_ERROR_CONNECTION_INVALID
 [dyld] (sensitive)
 __opaque__
