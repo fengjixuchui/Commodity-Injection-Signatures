@@ -87,12 +87,15 @@ OS_REASON_EXEC
 OS_REASON
 Object
 PETRIFIED
+PROGRAM:
+PROJECT:
 PT_ATTACHEXC
 Please file a bug for
 Please file a radar
 Please migrate to
 Please specify the bundleID
 process exited in a dirty state
+reading plist directly
 Reason
 removing service
 Report of type
@@ -123,6 +126,7 @@ The optional requiredEntitlements method was implemented, but no entitlements we
 Unable to get short BSD proc info
 Unable to obtain
 Unable to obtain a task name port right for
+updated with invalid process
 ValidityPeriodMaximums
 Variant
 WILL_SPAWN
