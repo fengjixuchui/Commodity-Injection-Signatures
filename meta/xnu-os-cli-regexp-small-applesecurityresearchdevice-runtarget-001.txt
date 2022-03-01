@@ -21,6 +21,7 @@ Assert
 Attempting excessively
 Attempting to write jetsam report
 bad base
+Bad file descriptor
 BREAK
 BUG IN CLIENT
 caller not entitled
