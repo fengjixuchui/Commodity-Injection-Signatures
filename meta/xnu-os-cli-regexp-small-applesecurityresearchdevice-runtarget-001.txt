@@ -1,9 +1,11 @@
+_cryptex_bundle_find_cryptex_elm
 (os/kern)
 (os/kern) failure (0x5)
 0.0.0.0
 17.
 ==> debugserver
 @rpath
+AppleImage4
 AMFI
 AMSupportPlatformCreateBufferFromNativeFilePath
 ASI found
@@ -18,6 +20,9 @@ Attempting to write jetsam report
 bad base
 BREAK
 BUG IN CLIENT
+caller not entitled
+com.apple.private
+com.apple.private.security
 copy_parent_certificates
 CFOpenDirectory
 Client has neither
@@ -40,6 +45,7 @@ exited due to SIGBUS
 exited
 exceeded
 exited with exit reason
+failed to find research
 Failed to convert signature from
 failed to warn
 Failed
