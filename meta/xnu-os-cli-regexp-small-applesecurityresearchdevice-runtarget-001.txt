@@ -1,5 +1,7 @@
 (os/kern)
 (os/kern) failure (0x5)
+/private/var/
+/private/var/root
 0.0.0.0
 17.
 ==> debugserver
@@ -13,25 +15,36 @@ AppleImage4
 AppleMobileFileIntegrity_research
 Assert
 Attempting excessively
+Attempting to write dictionary
 Attempting to write jetsam report
 BREAK
 BUG IN CLIENT
 Bad file descriptor
 Bundle info cannot be fetched
 CFOpenDirectory
+CMPOSIXUser
 Cache
 Client has neither
+Committing user settings
 Completed ptrace
 Conflicting
+Corpse released
+Could not find system user settings
+Could not read data from path
+Could not set F_SETSTATICCONTENT
+Created new POSIX user
+DARWIN
 DATA
+debugserver
 Decode HEIC request
 Details:
 Device connection interrupted
 EXC_
 EXC_BAD_ACCESS
-SIGBUSKERN_MEMORY_ERROR
+EXC_BAD_ACCESSSIGBUSKERN_MEMORY_ERROR
 EXC_RESOURCE
 EXITED
+Encountered an invalid header
 Error Domain
 Error while reading
 Explicitly trapping into debugger
@@ -48,11 +61,14 @@ HEAP Stats
 Hit the server for a process handle
 Host connection
 IDENTITY_ATTRIBUTION
+IMG4
+IODeviceTree
 IPConfiguration
 If this is expected behavior
 If you run under the debugger
 Invalid argument
 Is this a developer issue? Please file a radar...
+JETSAM_REASON_MEMORY_PERPROCESSLIMIT
 LOAD
 Library not loaded:
 Log limit exceeded
@@ -62,6 +78,8 @@ Missing Description
 MissingIntermediate
 NASM
 NSThread
+NVRAM
+NVRAM variable
 No match
 OS_REASON
 OS_REASON_DYLD
@@ -71,28 +89,35 @@ PETRIFIED
 PROGRAM:
 PROJECT:
 PT_ATTACHEXC
+Permanent update volume present
 Please file a bug for
 Please file a radar
 Please migrate to
 Please specify the bundleID
 Reason
 Refusing executable path
+Removing nag
 Report Crash
 Report of type
 ReportMemoryException
+ReportMemoryException client connection
 Runtime violation
 SDK
 SFP Assert
 SIGBUS
+SIGBUSKERN_MEMORY_ERROR
 SIGKILLed
 SIGTERM
 SIGTERMed
 SOURCE_ATTACH
 SPAWNED
+SUBMITTING
 Sandbox
 SecKeyVerifySignature failed
 Secure area is not present
 Sending response
+StabilityCrash
+Starting OTACrashCopier
 Successfully loaded a new image4 v1 trust cache
 SystemCache
 TARGETED_DEVICE_FAMILY
@@ -101,6 +126,7 @@ Trying to create CR directory structure as root
 Unable to get short BSD proc info
 Unable to obtain
 Unable to obtain a task name port right for
+Unable to resolve candidate path based on calling process entitlement
 Using fixed (injected) offsets
 VOC
 VREF
@@ -112,17 +138,20 @@ Warning Denying process assertion
 We had an entry for
 XPC_ERROR_CONNECTION_INVALID
 Xcode
+[CoreSymbolication] (sensitive)
 [dyld] (sensitive)
 __opaque__
 _cryptex_bundle_find_cryptex_elm
 about to
 about to task_for_pid
+adhoc signed
 application-identifier
 appsandbox.cold
 aslr_offset
 asm
 assert
 bad base
+bad file
 bind
 break
 bt all
@@ -138,6 +167,7 @@ com.apple.private.security
 com.apple.secinitd
 com.apple.security.cryptexd
 com.example.cryptex
+complies with restrictions
 copy_parent_certificates
 create_symbol_owner_data
 cryptex mount point
@@ -146,6 +176,7 @@ deny(1) file-map-executable
 deny(1) file-read-metadata
 denying
 denying executable
+descriptor
 disabled
 dstroot
 duplicate report for Sandbox:
@@ -154,6 +185,7 @@ elided platform fast path
 entitlements
 esr
 exceeded
+exceeded mem limit
 exception
 exited
 exited due to SIGBUS
@@ -163,6 +195,7 @@ failed to assign builtin profile
 failed to find research
 failed to warn
 failure
+falling back on naive access() check
 far
 file
 file-map-executable
@@ -170,8 +203,11 @@ file-read-metadata
 for pid
 fp
 hfs
+homeDirectoryURL
 hook..execve()
+img4
 implicit endpoint
+incomplete work
 input buffer bad size
 internal event
 internal event: PETRIFIED, code = 0
@@ -203,6 +239,7 @@ no-op
 numberOfErrorsDeep
 open failed
 os/kern
+passcode
 pc
 platform/device
 port right
@@ -214,12 +251,14 @@ recording malloc
 rejecting signature
 removing service
 replacing non ev reject score
+resolves to factor pack set
 result FAILED
 sdk
 send failed
 sensitive
 service has crashed
 service state
+servicePublished done
 sp
 stop reason
 subsystem
@@ -229,11 +268,15 @@ system-wide
 target-id
 task name
 task_for_pid
+terminationReasonExceptionCode
+terminationReasonNamespace
 times in a row
 tss request
 uncorking domain
+uncorking exec source upfront
 unmount failed
 unrestricted anchor source
+unsuitable CT policy
 unsuitable CT policy 0
 updated with invalid process
 variant
