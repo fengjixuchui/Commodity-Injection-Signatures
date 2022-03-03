@@ -17,6 +17,7 @@ Assert
 Attempting excessively
 Attempting to write dictionary
 Attempting to write jetsam report
+BAD mmap base metadata
 BREAK
 BUG IN CLIENT
 Bad file descriptor
@@ -33,6 +34,7 @@ Could not find system user settings
 Could not read data from path
 Could not set F_SETSTATICCONTENT
 Created new POSIX user
+CFSM dynamic blacklist
 DARWIN
 DATA
 debugserver
@@ -64,6 +66,7 @@ IDENTITY_ATTRIBUTION
 IMG4
 IODeviceTree
 IPConfiguration
+ISP FD netorks remmapped surface
 If this is expected behavior
 If you run under the debugger
 Invalid argument
@@ -231,6 +234,9 @@ mask.hash
 memorystatus_available_pages
 memorystatus_on_ledger_footprint_exceeded
 mmap()
+mmap buffer
+mmap failed
+mmap-ing base metadata
 mount point
 namespace
 ncmhost
