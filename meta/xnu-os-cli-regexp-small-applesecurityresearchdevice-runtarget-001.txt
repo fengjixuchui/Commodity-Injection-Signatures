@@ -7,6 +7,7 @@
 ==> debugserver
 @rpath
 AMFI
+(AppleMobileFileIntegrity_research) Invalid denylist
 AMSupportPlatformCreateBufferFromNativeFilePath
 ASI found
 ASSERT
@@ -79,9 +80,12 @@ IPConfiguration
 ISP FD netorks remmapped surface
 If this is expected behavior
 If you run under the debugger
+Invalid
 Invalid argument
+Invalid denylist
 Is this a developer issue? Please file a radar...
 JETSAM_REASON_MEMORY_PERPROCESSLIMIT
+kernel: (AppleMobileFileIntegrity_research) Invalid denylist
 Kernel Triage
 LOAD
 Library not loaded:
