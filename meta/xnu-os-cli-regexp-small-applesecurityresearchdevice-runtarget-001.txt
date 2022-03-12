@@ -45,6 +45,8 @@ Could not read data from path
 Could not set F_SETSTATICCONTENT
 Couldn't open parent path
 Created new POSIX user
+CSSymbolOwnerForEachStackFrameAtAddress
+CSSymbolicatorCreateWithTaskFlagsAndNotification
 DARWIN
 DATA
 DTFetchSymbols
@@ -52,6 +54,7 @@ Darwin Image4 Validator Version
 Decode HEIC request
 Details:
 Device connection interrupted
+Dispatch continuations
 EXC_
 EXC_BAD_ACCESS
 EXC_BAD_ACCESSSIGBUSKERN_MEMORY_ERROR
@@ -78,6 +81,7 @@ File system sandbox blocked
 Formulating
 Formulating fatal
 Full mode capture 0 0 d 0 t 1 f_f 0 f_r 0
+GAP
 Got xpc error message
 HEAP Stats
 Hit the server for a process handle
@@ -101,6 +105,7 @@ kernel(Sandbox)
 LOAD
 Library not loaded:
 Log limit exceeded
+mach_msg_server_once
 MIDeveloperDiskImageTracker
 Method
 Missing Description
@@ -269,6 +274,8 @@ lr
 mach
 mach-lookup
 main_block_invoke
+mapped_file
+MALLOC_LARGE
 mask.hash
 memorystatus_available_pages
 memorystatus_on_ledger_footprint_exceeded
@@ -283,6 +290,7 @@ no match
 no-op
 NonEmptySubject
 numberOfErrorsDeep
+Object is not alive
 open failed
 os/kern
 passcode
@@ -332,6 +340,7 @@ unsuitable CT policy 0
 updated with invalid process
 variant
 verification failed
+VM
 which is not a bundle
 will be removed in this release
 will use ASL
