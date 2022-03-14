@@ -55,6 +55,7 @@ Decode HEIC request
 Details:
 Device connection interrupted
 Dispatch continuations
+Enabling Probabilistic Guard Malloc
 EXC_
 EXC_BAD_ACCESS
 EXC_BAD_ACCESSSIGBUSKERN_MEMORY_ERROR
@@ -75,6 +76,7 @@ Failed
 Failed to convert signature from
 Failed to fetch
 Failed to resolve
+failure in
 Falling back to regular open()
 Fault hit memory shortage
 File system sandbox blocked
@@ -84,6 +86,7 @@ Full mode capture 0 0 d 0 t 1 f_f 0 f_r 0
 GAP
 Got xpc error message
 HEAP Stats
+hfs:
 Hit the server for a process handle
 Host connection
 IDENTITY_ATTRIBUTION
@@ -99,6 +102,7 @@ Invalid argument
 Invalid denylist
 Is this a developer issue? Please file a radar...
 JETSAM_REASON_MEMORY_PERPROCESSLIMIT
+kIOMessageSystemCapabilityChange
 kernel: (AppleMobileFileIntegrity_research) Invalid denylist
 Kernel Triage
 kernel(Sandbox)
@@ -108,6 +112,7 @@ Log limit exceeded
 mach_msg_server_once
 MIDeveloperDiskImageTracker
 Method
+missing bundleID
 Missing Description
 MissingIntermediate
 NASM
@@ -116,6 +121,8 @@ NSThread
 NVRAM
 NVRAM variable
 No match
+ON_STATE
+ON_STATE->ON_STATE
 OS_REASON
 OS_REASON_DYLD
 OS_REASON_EXEC
@@ -129,6 +136,8 @@ Please file a bug for
 Please file a radar
 Please migrate to
 Please specify the bundleID
+PMRD:
+power event
 Reason
 Refusing executable path
 Removing nag
@@ -276,6 +285,7 @@ mach-lookup
 main_block_invoke
 mapped_file
 MALLOC_LARGE
+MSupportPlatformCreateBufferFromNativeFilePath
 mask.hash
 memorystatus_available_pages
 memorystatus_on_ledger_footprint_exceeded
@@ -305,6 +315,7 @@ re re --all
 reading plist directly
 recording malloc
 rejecting signature
+Removing all cached process handles
 removing service
 replacing non ev reject score
 resolves to factor pack set
