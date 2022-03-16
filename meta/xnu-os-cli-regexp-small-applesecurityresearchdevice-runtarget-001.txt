@@ -21,6 +21,8 @@ Assert
 Attempting excessively
 Attempting to write dictionary
 Attempting to write jetsam report
+authentication
+authentication failed
 BAD mmap base metadata
 BREAK
 BSD Name
@@ -32,8 +34,11 @@ CFSM dynamic blacklist
 CMPOSIXUser
 CSSymbolOwnerForEachStackFrameAtAddress
 CSSymbolicatorCreateWithTaskFlagsAndNotification
+c411
+c411 authentication
 Cache
 Client has neither
+_codex_import_core_continue
 Committing user settings
 Completed ptrace
 Compressor failed 
@@ -45,7 +50,10 @@ Could not find system user settings
 Could not read data from path
 Could not set F_SETSTATICCONTENT
 Couldn't open parent path
+cpxd
+cpxd authentication
 Created new POSIX user
+cx.srd
 DARWIN
 DATA
 DMA error:
@@ -69,11 +77,13 @@ Explicitly trapping into debugger
 Fail
 Failed
 Failed to convert signature from
+Failed to install cryptex
 Failed to fetch
 Failed to resolve
 Falling back to regular open()
 Fault hit memory shortage
 File system sandbox blocked
+firmware execution failed
 Formulating
 Formulating fatal
 Full mode capture 0 0 d 0 t 1 f_f 0 f_r 0
@@ -90,15 +100,18 @@ ISP FD netorks remmapped surface
 If this is expected behavior
 If you run under the debugger
 InactiveHard
+installation failed
 Invalid
 Invalid argument
 Invalid denylist
+ipc failure
 Is this a developer issue? Please file a radar...
 JETSAM_REASON_MEMORY_PERPROCESSLIMIT
 Kernel Triage
 LOAD
 Library not loaded:
 Log limit exceeded
+manifest constraint violated
 MALLOC_LARGE
 MIDeveloperDiskImageTracker
 MSupportPlatformCreateBufferFromNativeFilePath
@@ -125,10 +138,12 @@ PROGRAM:
 PROJECT:
 PT_ATTACHEXC
 Permanent update volume present
+Permission denied
 Please file a bug for
 Please file a radar
 Please migrate to
 Please specify the bundleID
+rpc_init_local
 Reason
 Refusing executable path
 Removing all cached process handles
