@@ -1,3 +1,4 @@
+
 Mobile App: 1Gallery - Photo Gallery & Vault (AES ENCRYPTION) (Google Play), by todayweather.co
 Mobile App: 2Face-2 Accounts for whatsapp&social apps (Google Play), by ThinkMobile Inc.
 Mobile App: 2Face: Parallel Space (Google Play), by 2Face Studio - App Cloner
@@ -6,6 +7,7 @@ Mobile App: 5万5千曲以上のギターコード U-FRET(U-フレット) (iTune
 Mobile App: A Counter (Google Play), by Apperoan
 Mobile App: AMC Security - Clean & Boost & Antivirus (Google Play), by IObit Mobile Security
 Mobile App: AVC: Antivirus & Virus Cleaner (Google Play), by MefistoDev
+Mobile App: Adblock for all browsers (Google Play), by AdBlock Block All Ads
 Mobile App: Adblock for all browsers, privacy safe & adblocker (Google Play), by AdBlock Block All Ads
 Mobile App: Advanced Security Pro (Google Play), by Misecure Apps
 Mobile App: AirDroid: File & Remote Access (Google Play), by SAND STUDIO
@@ -14,6 +16,8 @@ Mobile App: Alarm Clock Xtreme: Alarm, Stopwatch, Timer (Free) (Google Play), by
 Mobile App: Alfred Home Security Camera (Google Play), by Alfred Systems Inc.
 Mobile App: All Status Saver for WhatsApp - Status Downloader (Google Play), by Download Status App Studio
 Mobile App: All Status Saver for WhatsApp - Status Downloader (Google Play), by Status Saver LLC_Video Status Downloader Apps
+Mobile App: Alpha Cloud (Google Play), by Coralsky
+Mobile App: Altaufik VPN HTTP/SSH/ Tunnel (Google Play), by Tcodes
 Mobile App: AndFTP (your FTP client) (Google Play), by LYSESOFT
 Mobile App: AnonyTun (Google Play), by Art Of Tunnel
 Mobile App: AnonyTun Black - Free Unlimited VPN Tunnel (Google Play), by Art Of Tunnel
@@ -40,6 +44,7 @@ Mobile App: BPM Tap Counter (iTunes App Store), by SHIGETO TAKAGI
 Mobile App: Background Eraser 〜 Stickers ! (iTunes App Store), by handyCloset Inc.
 Mobile App: Background Eraser 〜 Stickers (iTunes App Store), by handyCloset Inc.
 Mobile App: Bagan - Myanmar Keyboard (Google Play), by Bagan Innovation Technology
+Mobile App: Bamboo VPN (Google Play), by Billion
 Mobile App: Battery HD+ (iTunes App Store), by smalltech sarl
 Mobile App: Beat Fire - Edm Gun Music Game (Google Play), by Adaric Music
 Mobile App: Beat Racing：Car & EDM (Google Play), by Badsnowball Limited
@@ -60,6 +65,7 @@ Mobile App: CCNA Commands (Google Play), by Networking
 Mobile App: CISM Certification Exam (iTunes App Store), by ZIROTEK CORP.
 Mobile App: Cahoカレンダー かわいい&人気のCahoカレンダー (iTunes App Store), by RAN CHEN
 Mobile App: Cahoカレンダー　人気の可愛い手帳かれんだー (iTunes App Store), by RAN CHEN
+Mobile App: Calculator+ light: hidden safe (iTunes App Store), by Vadim Suprovici
 Mobile App: Call Master-Blocker & Recorder (Google Play), by CallMaster Apps
 Mobile App: Camera Translator (Google Play), by Alt Apps LLC
 Mobile App: Camera Transparent - Transparent Live Wallpaper (Google Play), by Cute Wallpapers Studio
@@ -113,10 +119,12 @@ Mobile App: Dot n Beat - Test your hand speed (Google Play), by Badsnowball Limi
 Mobile App: Dr.Capsule  Antivirus, Cleaner (Google Play), by ESTsoft Corp.
 Mobile App: Drum Pad Machine - Beat Maker (Google Play), by Easybrain
 Mobile App: Duff Qibla Finder, Prayer Time (Google Play), by duff hl studio
+Mobile App: Earth VPN - VPN Proxy Server (Google Play), by NevInfotech
 Mobile App: Easy Voice Recorder (Google Play), by Digipom
 Mobile App: Easy link - Private & Reliable (Google Play), by Galaxy Lab Team
 Mobile App: Easy to see in large letters - BigContact (iTunes App Store), by aguuu Inc.
 Mobile App: ElGrami Messenger (Google Play), by ElGrami
+Mobile App: Eli Vpn - Fast Secure Vpn (Google Play), by Bilgi Yazilim
 Mobile App: Email - Mail Mailbox (Google Play), by TOH Talent Team
 Mobile App: Email Aqua Mail - Fast, Secure (Google Play), by MobiSystems
 Mobile App: Eth Mining (Google Play), by assem ahmed
@@ -127,8 +135,10 @@ Mobile App: Fancy Wallpaper - 4K, HD phone (Google Play), by Privacy Guard +
 Mobile App: Fast VPN (Google Play), by VPN & Proxy Master
 Mobile App: Fast VPN - Fast & Secure Proxy (Google Play), by VPM Master
 Mobile App: Fast VPN - Secure VPN Tunnel (Google Play), by Hotspot VPN & Proxy Master
+Mobile App: Fast VPN - Unlimited VPN Proxy (Google Play), by LeoSM
 Mobile App: Fast n Clean. Android booster (Google Play), by Samoukale Enterprises Ltd.
 Mobile App: FastCandy - Private & Fast (Google Play), by Sung-hwi Lee
+Mobile App: FastVPN - Superfast&Secure VPN (Google Play), by Five Oceans E-Commerce
 Mobile App: File Manager (Google Play), by File Manager Plus
 Mobile App: File Manager (Google Play), by Flashlight + Clock
 Mobile App: Find My Phone Whistle - gadget finder by whistling (Google Play), by Appache Tools: Find my phone by whistle & by clap
@@ -141,6 +151,7 @@ Mobile App: Flashlight (Google Play), by Light Apps Studio
 Mobile App: Flashlightled (Google Play), by Night Dev. Apps
 Mobile App: France Live FM - Listen radios (iTunes App Store), by Yiping Ding
 Mobile App: France Radio: Online, FM et AM (iTunes App Store), by APPMIND - SOFTWARE TECHNOLOGIES LDA
+Mobile App: Free App Blocker App Blocker (Google Play), by Apprecible
 Mobile App: Free Crypto Signals with Auto Trading, Crypto News (Google Play), by All In One Crypto App
 Mobile App: Free Notes Notepad App (Google Play), by Marco Meyer
 Mobile App: Free QR code Scanner app (Google Play), by Application4u
@@ -154,8 +165,10 @@ Mobile App: French Radio Online (Google Play), by World Radio App - Radio FM, Ra
 Mobile App: G-NetTrack Lite (Google Play), by GyokovSolutions
 Mobile App: GE VPN - Secure Vpn Proxy (Google Play), by GeorgianDev
 Mobile App: Gallery KK (Google Play), by Moblynx
+Mobile App: GeckoVPN Unlimited Proxy VPN (Google Play), by Best Free VPN Proxy
 Mobile App: Ghanaian Radio Stations (Google Play), by Leonard Sever Manole
 Mobile App: Green Pass Wallet (Google Play), by Snap Up
+Mobile App: GreenNet VPN Hotspot VPN Proxy (Google Play), by Anonymith
 Mobile App: Gun Shot - Sounds (Google Play), by Gnawbone LLC
 Mobile App: HA Tunnel Plus (Google Play), by Art Of Tunnel
 Mobile App: HD Video Player All Formats (Google Play), by ASD Dev Video Player for All Format
@@ -203,6 +216,7 @@ Mobile App: Logo Maker : Graphic Design (Google Play), by Mobi App & Thumbnail M
 Mobile App: Lotteria degli Scontrini App (Google Play), by Lazycat Solutions
 Mobile App: Love photo frames photo editor (Google Play), by XEN Studios
 Mobile App: M4 VPN - Secure VPN Proxy (Google Play), by M4APP
+Mobile App: MAX-Proxy Browser Anti Blokir - Proxy Browser VPN (Google Play), by Bulander Media
 Mobile App: MOJi N1-日语能力考试文字词汇学习书(JLPT N1) (iTunes App Store), by Hugecore Information Technology (Guangzhou) Co.,Ltd.
 Mobile App: MOJi N3-日语能力考试文字词汇学习书(JLPT N3) (iTunes App Store), by Hugecore Information Technology (Guangzhou) Co.,Ltd.
 Mobile App: Magic Hop: EDM & Dancing (Google Play), by Badsnowball Limited
@@ -215,7 +229,9 @@ Mobile App: Melody Box Max (iTunes App Store), by RAINTRACE
 Mobile App: Melon VPN - Easy Fast VPN (iTunes App Store), by LANPIPER PTE. LTD.
 Mobile App: Melon VPN - Unblock Proxy VPN (Google Play), by Inf Security Studio
 Mobile App: Memo - free notepad app (Google Play), by Komorebi Inc.
+Mobile App: Meta VPN (Google Play), by VPN Horizon
 Mobile App: Metronome beats: BPM counter (iTunes App Store), by Stonekick Limited
+Mobile App: Mexico VPN - Unlimited VPN (Google Play), by 18 VPN App
 Mobile App: Mi Music (Google Play), by Xiaomi MIUI
 Mobile App: Mi Video - Video player (Google Play), by Xiaomi Inc.
 Mobile App: Mirror : Natural Mirror 4K (iTunes App Store), by sky-nexus Inc.
@@ -250,6 +266,7 @@ Mobile App: Myメモ 〜おしゃれなメモ帳〜 (iTunes App Store), by Anyse
 Mobile App: Name On Birthday Cake - Video,Photo,Creater (Google Play), by Galaxy Launcher
 Mobile App: Natural Mirror (iTunes App Store), by sky-nexus Inc.
 Mobile App: Net Blocker - Block internet per app (Google Play), by The Simple Apps
+Mobile App: NetDoctor VPN | VPN Proxy (Google Play), by IronMeta Studio
 Mobile App: Netmonitor (Google Play), by parizene
 Mobile App: Network Analyzer (Google Play), by Jiri Techet
 Mobile App: Network Cell Info Lite & Wifi (Google Play), by M2Catalyst, LLC.
@@ -267,6 +284,7 @@ Mobile App: OfficeSuite - Free Office, PDF, Word,Sheets,Slides (Google Play), by
 Mobile App: OfficeSuite: Word, Sheets, PDF (Google Play), by MobiSystems
 Mobile App: Offle - MP3 & MP4 Repeat Play (iTunes App Store), by kim juyoung
 Mobile App: One Booster - Antivirus, Booster, Phone Cleaner (Google Play), by One Dot Moblie Limited
+Mobile App: One Security: Antivirus, Clean (Google Play), by One Dot Moblie Limited
 Mobile App: Owl Security - Antivirus Free (Google Play), by koala security studio
 Mobile App: PCM Recorder (Google Play), by Kohei YASUI
 Mobile App: PCM Recorder Lite (iTunes App Store), by Kohei YASUI
@@ -300,6 +318,7 @@ Mobile App: PicsArt Photo Editor: Pic, Video & Collage Maker (Google Play), by P
 Mobile App: Picsart Photo & Video Editor (Google Play), by PicsArt, Inc.
 Mobile App: Ping Test Tool (Google Play), by fpemGame
 Mobile App: PingTools Network Utilities (Google Play), by StreamSoft
+Mobile App: Pinki VOIP (Google Play), by Sunmoon Technologies
 Mobile App: Pitch Shift / EQ / AUv3 (iTunes App Store), by Loop-Sessions.LLC.
 Mobile App: PiyoLog - Baby Feed Tracker (iTunes App Store), by Sakabou Inc.
 Mobile App: PiyoLog: Newborn Baby Tracker (iTunes App Store), by PiyoLog Inc.
@@ -313,6 +332,7 @@ Mobile App: Private App Lock (Google Play), by pogezone
 Mobile App: Private Proxy Browser (Google Play), by Fast Browser VPN
 Mobile App: Private Video Downloader (Google Play), by proxy browser team
 Mobile App: Proxynel: unblock sites proxy (Google Play), by Golzak
+Mobile App: Psiphon (Google Play), by Psiphon Inc.
 Mobile App: Psiphon Pro - The Internet Freedom VPN (Google Play), by Psiphon Inc.
 Mobile App: Psychic 4U - Fortune teller (iTunes App Store), by Pierre Mosdier
 Mobile App: Python Programming Interpreter (iTunes App Store), by Ketan Appa
@@ -369,10 +389,13 @@ Mobile App: Screen Mirrroring HD Videos (Google Play), by Sonepe Suhaga
 Mobile App: Screen Recorder:Video Recorder (Google Play), by iJoysoft
 Mobile App: ScreenMaster: Screenshot & Longshot, Photo Markup (Google Play), by Blossgraph
 Mobile App: Secure Folder- Photo Vault (Google Play), by Media Tech Studioz
+Mobile App: Secure VPN - MiniFox VPN (Google Play), by MiniFox LTD
 Mobile App: Secure VPN－Safer Internet (Google Play), by Signal Lab
 Mobile App: Security Antivirus - Max Cleaner (Google Play), by Power Both App Inc.
 Mobile App: Security Master (Google Play), by Ostentus Apps
+Mobile App: ShellTun - SSH VPN (Google Play), by Art Of Tunnel
 Mobile App: Shift Work Calendar (iTunes App Store), by Ebisu Soft Inc.
+Mobile App: Shine VPN - secure fast proxy (Google Play), by Zack Rider
 Mobile App: Shuttle VPN -Fast & Secure VPN (Google Play), by Shuttle VPN
 Mobile App: Signal Secure VPN - Robot VPN (Google Play), by AUTUMN BREEZE PTE. LIMITED
 Mobile App: Silent Camera [High Quality] (Google Play), by Peace
@@ -386,6 +409,7 @@ Mobile App: Sketch Me! Lite (iTunes App Store), by pierre gougelet
 Mobile App: Sketch Photo Maker - Sketch Camera & Photo Editor (Google Play), by AZ Mobile Software
 Mobile App: Sky 3D (Google Play), by Galina Balde Apps
 Mobile App: SkyVPN - Fast Secure VPN (Google Play), by Dingtone Communications Ltd
+Mobile App: SkyVPN - Unlimited VPN Proxy (iTunes App Store), by Dingtone Communications Limited
 Mobile App: Sleep Meister Lite (iTunes App Store), by Naoya Araki
 Mobile App: Slideshow Maker: Slideshow (Google Play), by GOMIN MOBILE
 Mobile App: Smart Alarm (Alarm Clock) (Google Play), by TanyuSoft
@@ -404,11 +428,13 @@ Mobile App: SpeedVPN Secure VPN Proxy (Google Play), by GoSpeed Software
 Mobile App: Speedy Quark VPN - Fast Servers & Secure Proxy (Google Play), by VPN - Fast Proxy Inc.
 Mobile App: Stamp Calendar for Girls+ (iTunes App Store), by ZAIZEN Co., Ltd.
 Mobile App: StampCalendar DX (iTunes App Store), by ZAIZEN Co., Ltd.
+Mobile App: Star VPN (Google Play), by VPN & Proxy Master
 Mobile App: Stark VPN Reloaded (Google Play), by iStark Dev
 Mobile App: Stark VPN Reloaded - New Stark VPN (Google Play), by iStark
 Mobile App: Stibo -付箋メモ帳- (iTunes App Store), by BUILD LLC
 Mobile App: Sticker maker (Google Play), by Viko & Co
 Mobile App: Sticky Notebook - Stibo (iTunes App Store), by BUILD LLC
+Mobile App: Striking VPN (Google Play), by HusseinDev
 Mobile App: Stylish Calculator - CALCU™ (Google Play), by Designer Calculators
 Mobile App: Subito: compra e vendi usato (Google Play), by Subito.it S.r.l.
 Mobile App: Super Fast Cleaner - Antivirus & Booster & Cleaner (Google Play), by Phone Clean Apps
@@ -423,6 +449,8 @@ Mobile App: SuperVPN Pro (Google Play), by SuperSoftTech
 Mobile App: Superimpose Studio-Eraser,Mix (iTunes App Store), by KALEIDOSCOPE Inc.
 Mobile App: Superimpose+:Background Eraser (iTunes App Store), by KALEIDOSCOPE Inc.
 Mobile App: Sweep Cleaner: cache and junk file cleaner (Google Play), by Polina Dev
+Mobile App: Swing Lite VPN - Secure VPN (Google Play), by Limestone Software Solutions
+Mobile App: Swordfish SpeedPro (Google Play), by mooncy
 Mobile App: Symmetry Mirror (Google Play), by kendroid.info
 Mobile App: TCP Telnet Terminal (Google Play), by mightyIT
 Mobile App: Tab ToDoList -Simple ToDo App- (iTunes App Store), by Yoshiyuki Tanaka
@@ -433,6 +461,7 @@ Mobile App: Terabox: Cloud Storage Space (Google Play), by Flextech Inc.
 Mobile App: The Grid: Plan for Instagram (iTunes App Store), by The Good App Company, Limited Liability Company
 Mobile App: The Simple Camera (iTunes App Store), by KANAME OHARA
 Mobile App: Thunder VPN - Fast, Safe VPN (Google Play), by Signal Lab
+Mobile App: Tik VPN: Fast&Unlimited Proxy (Google Play), by Tik VPN Studio
 Mobile App: Time Warp Scan - Face warp (Google Play), by KIWI UNIVERSE
 Mobile App: TimeSignals (iTunes App Store), by Yasushi Sakai
 Mobile App: Timer & Alarm ListTimer (iTunes App Store), by Umemoto Non
@@ -444,6 +473,7 @@ Mobile App: Tomato VPN | VPN Proxy (Google Play), by IronMeta Studio
 Mobile App: ToonArt: Cartoon Yourself, Caricature Photo Editor (Google Play), by Lyrebird Studios
 Mobile App: Touch Master : Fast  Super (Google Play), by MarkMa Tech
 Mobile App: Touch VPN - Fast Wifi Security (Google Play), by The Tool Tech
+Mobile App: Touch VPN — Unlimited Proxy (iTunes App Store), by TOUCHVPN INC
 Mobile App: Transparent Wallpaper - Transparent Live Wallpaper (Google Play), by AZ Mobile Software
 Mobile App: Treeカレンダー 簡単スケジュール管理の人気カレンダー (iTunes App Store), by RAN CHEN
 Mobile App: Truecaller: Caller ID & Block (Google Play), by Truecaller
@@ -456,13 +486,16 @@ Mobile App: Tuner & Metronome (Google Play), by Soundcorset tuner
 Mobile App: Tuner Lite by Piascore (iTunes App Store), by Piascore, Inc.
 Mobile App: Turbo VPN - Secure VPN Proxy (Google Play), by Innovative Connecting
 Mobile App: Turbo VPN Private Browser (iTunes App Store), by INNOVATIVE CONNECTING PTE.LIMITED
+Mobile App: Tweakware (Google Play), by castsports
 Mobile App: U-FRET - 70000曲以上のギターコード (iTunes App Store), by GLNET Co.,Ltd.
+Mobile App: UFO VPN - Fast and safe Proxy (Google Play), by Speed VPN Hotspot
 Mobile App: UK Learning English英式英语教学精华 (iTunes App Store), by WEI XU
 Mobile App: UPX: Unblock Sites VPN Browser (Google Play), by Unblock Vpn Proxy Browser
 Mobile App: Ucカレンダー見やすいスケジュール帳 (iTunes App Store), by urecy
 Mobile App: Ultimate VPN (Google Play), by Ultimate VPN Inc
 Mobile App: Ultra AppLock-Ultra AppLock protects your privacy. (Google Play), by ABXZ Inc.
 Mobile App: Ultra Junk Cleaner - Memory & Performance Booster (Google Play), by UNCLEBO LTD
+Mobile App: UltraTap Bravo (Google Play), by Eva Ultra Studio
 Mobile App: Unblock Websites — VPN Proxy App (Google Play), by VEEPN, Corp.
 Mobile App: Unique VPN | Fast VPN Proxy (Google Play), by Anonymith
 Mobile App: Universal Smart tv Remote Ctrl (Google Play), by fineart
@@ -474,9 +507,11 @@ Mobile App: VPN - Super Unlimited Proxy (Google Play), by VPN Super Inc.
 Mobile App: VPN - Super Unlimited Proxy (iTunes App Store), by Mobile Jump
 Mobile App: VPN - Super Unlimited Proxy (iTunes App Store), by Mobile Jump Pte Ltd
 Mobile App: VPN - Unblock Proxy Hotspot (Google Play), by VPN Shield Proxy Master
+Mobile App: VPN - Unlimited Best VPN Proxy (iTunes App Store), by Mobile Jump Pte Ltd
 Mobile App: VPN -super unlimited proxy vpn (Google Play), by Secure Private Browser Productivity Apps
 Mobile App: VPN : Power VPN - Fast Secure Unlimited VPN Proxy (Google Play), by PowerVPN - Fast, Unlimited & Secure VPN
 Mobile App: VPN Browser for VK.com Lite (Google Play), by Anotap
+Mobile App: VPN Browser for VK.com Lite (Google Play), by Testadevelopers
 Mobile App: VPN Canada - get Canadian IP (Google Play), by AltApps
 Mobile App: VPN Colombia - Unblock Proxy (Google Play), by Proxy Master & Secure VPN
 Mobile App: VPN Egypt - Unblock VPN Secure (Google Play), by Proxy Master & Secure VPN
@@ -505,6 +540,7 @@ Mobile App: VPN Unblock(Video & Site) (Google Play), by Apphub
 Mobile App: VPN Vietnam - Super VPN Shield (Google Play), by Proxy Master & Secure VPN
 Mobile App: VPN [Safe Watch] (Google Play), by Safe Watch
 Mobile App: VPN free & secure fast proxy shield by GOVPN (Google Play), by GOVPN
+Mobile App: VPN.lat: Unlimited and Secure (Google Play), by VPN.lat
 Mobile App: VPNIFY - Unlimited VPN (iTunes App Store), by Neonetworks solution ltd
 Mobile App: Vanced Tube Music Streamer (iTunes App Store), by HUNG NGUYEN HOANG
 Mobile App: Vast VPN - Secure VPN Proxy (Google Play), by Vast Security Innovation Lab
@@ -525,6 +561,7 @@ Mobile App: Voice Recorder - Recording App (iTunes App Store), by Linfei Ltd.
 Mobile App: Voice Recorder Pro (Google Play), by Splend Apps
 Mobile App: Voice changer with effects (Google Play), by Baviux
 Mobile App: Volume Booster - Equalizer & Bass & Loudspeaker (Google Play), by Magic Mobile Studio
+Mobile App: Vpnine - Fast and Secure VPN (iTunes App Store), by Cogeorgia LLC
 Mobile App: WABox - Toolkit For WhatsApp (Google Play), by ZipoApps
 Mobile App: WIFI WPS WPA TESTER (Google Play), by Sangiorgi Srl
 Mobile App: WPSApp (Google Play), by TheMauSoft
@@ -542,6 +579,8 @@ Mobile App: WiFi Passwords, Offline maps & VPN. WiFi Map® (Google Play), by WiF
 Mobile App: WiFi Warden (Google Play), by EliyanPro
 Mobile App: WiFi Warden - WiFi Passwords and more (Google Play), by NUCONCEPTS
 Mobile App: Wifi Analyzer (Google Play), by farproc
+Mobile App: Wifi Password Automatic (Google Play), by NetworkAppDevs
+Mobile App: Wifi Password Key Generator (Google Play), by Gamesoftgames
 Mobile App: Wifi Password Viewer & Finder (Google Play), by WiFi Secure Apps
 Mobile App: Wifi password all in one (Google Play), by Magdalm
 Mobile App: Wifi: Signal Optimizer (Google Play), by SUSHIWAPA
