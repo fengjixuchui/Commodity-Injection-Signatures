@@ -79,6 +79,7 @@ Failed
 Failed to convert signature from
 Failed to install cryptex
 Failed to fetch
+Failed to mount
 Failed to resolve
 Falling back to regular open()
 Fault hit memory shortage
@@ -256,6 +257,7 @@ exited
 exited due to
 exited due to SIGBUS
 exited with exit reason
+failed necp_set_socket_domain_attributes
 failed to
 failed to assign builtin profile
 failed to find research
@@ -320,6 +322,7 @@ mmap-ing base metadata
 mount point
 namespace
 ncmhost
+necp_set_socket_domain_attributes
 no match
 no-op
 numberOfErrorsDeep
