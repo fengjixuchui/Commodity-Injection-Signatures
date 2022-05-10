@@ -265,6 +265,7 @@ failed to frob plist
 failed to read nvram property
 failed to warn
 failed to warn the current task
+failed to pass date test
 failed with resource shortage
 failure
 failure in
