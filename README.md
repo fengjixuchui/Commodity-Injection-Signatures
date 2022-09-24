@@ -1,6 +1,6 @@
 # XSS.Cx Public Repo
 
-## Last Update: TUE 22 FEB 2022
+## Last Update: 10 SEPT 2022
 
 ## About
 - Commodity Injection Signatures
