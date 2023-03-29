@@ -1,6 +1,6 @@
 # XSS.Cx Public Repo
 
-## Last Update: 10 SEPT 2022
+## Last Update: 14 MAR 2023
 
 ## About
 - Commodity Injection Signatures
@@ -16,6 +16,7 @@
 - regex files to aid with apple security research device log analysis
 - RBL focused on AD CDN's
 - RBL focused on App Titles 
+- XNU Crash Helpers a la Apple SRD circa 2023
 
 ### Pull Requests Welcome
 
