@@ -1,6 +1,9 @@
 # XSS.Cx Public Repo
 
-## Last Update: 14 MAR 2023
+## Last Update: 4 APR 2023
+- Added CVE-2022-26730 ICC Color Profile Sample PoC's
+- Added CVE-2022-26730 Graphics Samples known to Crash many OS
+- https://srd.cx/cve-2022-26730/
 
 ## About
 - Commodity Injection Signatures
